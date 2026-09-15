@@ -4,13 +4,13 @@
 
 ## Overview
 
-AeroPulse is an aviation analytics and decision-support project that brings together route performance, airline activity, timing, fare observations and passenger-experience evidence to help answer a simple question:
+AeroPulse is an aviation analytics and decision-support project that combines route performance, airline activity, observed timing, fare observations and passenger-experience evidence to help answer a practical question:
 
 **Which flight option makes the most sense — and why?**
 
-Instead of looking at a single signal such as price, AeroPulse combines multiple evidence layers and presents them through an interactive Looker Studio dashboard.
+Instead of relying on a single signal such as price, AeroPulse combines multiple evidence layers and presents them through an interactive Looker Studio dashboard.
 
-The project is designed as an analytical prototype rather than a booking engine or predictive model.
+The project is designed as an analytical prototype and decision-support system rather than a booking engine or predictive model.
 
 ---
 
@@ -21,7 +21,7 @@ Choosing a flight is rarely only about price.
 Travelers may also consider:
 
 - Which airline is strongest on the route?
-- When are flights most active?
+- When is flight activity most concentrated?
 - How does the observed fare compare with alternatives?
 - What do passengers report about the airline experience?
 - Does the recommendation change for different traveler profiles?
@@ -51,7 +51,7 @@ The central **Flight Choice Advisor** allows users to select:
 - Preferred time window
 - Traveler type: Business or Leisure
 
-It then ranks the top three airline options and explains the recommendation.
+It then ranks the top three airline options for the selected scenario and explains the recommendation.
 
 ### Core message
 
@@ -94,7 +94,7 @@ Collect aviation observations and supporting reference data.
 
 ### 2. Analyze
 
-Calculate route, airline, demand, growth, performance and seasonality indicators.
+Calculate route, airline, activity, growth, performance and seasonality indicators.
 
 ### 3. Compare
 
@@ -102,15 +102,15 @@ Compare airline and route alternatives within the selected scenario.
 
 ### 4. Recommend
 
-Apply defined decision rules to produce explainable recommendations.
+Apply transparent decision rules to produce explainable recommendations.
 
-The recommendation layer is based on observed evidence and defined analytical rules. It is **not a predictive AI model**.
+The recommendation layer is **rule-based rather than a predictive AI model**.
 
 ---
 
 ## AeroPulse Score
 
-The core recommendation framework uses several analytical components, including:
+The broader AeroPulse performance framework uses analytical components including:
 
 - Demand
 - Growth
@@ -118,17 +118,29 @@ The core recommendation framework uses several analytical components, including:
 - Route strength
 - Seasonality
 
-These contribute to the broader **AeroPulse Score** and opportunity assessment.
+These contribute to the broader **AeroPulse Score** and route opportunity assessment.
 
-Additional evidence layers such as price and passenger experience are intentionally kept separate from the core score.
+Additional evidence layers such as price and passenger experience are intentionally kept separate from the core AeroPulse Performance/Opportunity Score.
 
-This separation helps distinguish:
+This separation distinguishes:
 
-**core route/airline performance evidence**
+**core route and airline performance evidence**
 
 from
 
 **supporting decision evidence.**
+
+The **Flight Choice Advisor** uses its own production scoring pipeline based on:
+
+- monthly service/activity strength
+- service consistency
+- route-airline strength
+- observed time-period fit
+- price evidence where sufficiently reliable
+
+The Advisor methodology is documented separately in:
+
+`docs/advisor_pipeline.md`
 
 ---
 
@@ -136,18 +148,18 @@ from
 
 ### Flight Timing Intelligence
 
-Analyzes observed flight activity across detailed three-hour time windows.
+Analyzes observed flight activity across detailed three-hour time windows:
 
-The time windows are:
-
-- 00:00–03:00 — Late Night
-- 03:00–06:00 — Early Morning
-- 06:00–09:00 — Morning
-- 09:00–12:00 — Late Morning
-- 12:00–15:00 — Midday
-- 15:00–18:00 — Afternoon
-- 18:00–21:00 — Evening
-- 21:00–00:00 — Night
+| Time window | Label |
+|---|---|
+| 00:00–03:00 | Late Night |
+| 03:00–06:00 | Early Morning |
+| 06:00–09:00 | Morning |
+| 09:00–12:00 | Late Morning |
+| 12:00–15:00 | Midday |
+| 15:00–18:00 | Afternoon |
+| 18:00–21:00 | Evening |
+| 21:00–00:00 | Night |
 
 Important: these represent **observed activity periods derived from OPDI/ADS-B observations**, not scheduled departure times.
 
@@ -162,6 +174,7 @@ It provides:
 - route-relative price bands
 - airline price positioning
 - price evidence coverage
+- sample-quality indicators
 
 Price observations are **not presented as live market prices**.
 
@@ -186,13 +199,15 @@ Only airlines with verified name matches to the AeroPulse airline reference are 
 
 Passenger experience is presented as a separate evidence layer and is **not included in the core AeroPulse Performance/Opportunity Score**.
 
+Passenger review ratings represent reported customer perceptions in the source dataset; they are not operational performance measurements.
+
 ---
 
 ## Data Sources
 
 ### OpenSky / OPDI
 
-The aviation activity layer is based on the **OpenSky Network Open Public Domain Air Traffic Data (OPDI)**.
+The aviation activity layer is based on the **OpenSky Network Open Data for Performance and Infrastructure (OPDI)**.
 
 The project uses observed flight activity from August 2025 through July 2026 for the main Flight Choice Advisor scope.
 
@@ -252,3 +267,180 @@ Analytical Views & Recommendation Logic
 Looker Studio
         ↓
 Interactive Decision Support
+```
+
+The Flight Choice Advisor production logic is documented in:
+
+`docs/advisor_pipeline.md`
+
+The Advisor data model is documented in:
+
+`docs/advisor_data_model.md`
+
+---
+
+## Flight Choice Advisor — Production Logic
+
+The production Advisor follows this analytical flow:
+
+```text
+Historical OPDI observations
+            ↓
+Advisor activity fact
+(route × month × ICAO operator)
+            ↓
+Airline mapping
+            ↓
+Route + month enrichment
+            ↓
+Activity strength
+            +
+Service consistency
+            +
+Observed time-period fit
+            +
+Route-airline strength
+            +
+Price evidence
+            ↓
+Final Advisor Score
+            ↓
+Recommendation Level
+            ↓
+Dashboard Recommendation
+```
+
+The production Advisor score uses:
+
+| Component | Weight |
+|---|---:|
+| Monthly service score | 35% |
+| Observed time-period fit | 25% |
+| Route-airline strength | 25% |
+| Price evidence | 15% |
+
+When reliable price evidence is unavailable, the non-price components are normalized so that missing price data does not penalize the recommendation.
+
+Recommendation categories are:
+
+| Advisor score | Recommendation |
+|---:|---|
+| ≥80 | Excellent Choice |
+| ≥70 | Strong Choice |
+| ≥60 | Good Choice |
+| ≥50 | Consider |
+| <50 | Lower Priority |
+
+---
+
+## Data Quality & Interpretation
+
+AeroPulse is designed around transparent evidence and explicit limitations.
+
+The project distinguishes between:
+
+- observed flight activity and passenger demand
+- observed activity periods and scheduled departure times
+- fare observations and live market prices
+- passenger review perceptions and operational performance
+- analytical recommendations and predictive forecasts
+
+The recommendation engine does not claim to predict:
+
+- passenger demand
+- future airline performance
+- ticket prices
+- delays or cancellations
+- profitability
+- customer satisfaction
+
+OPDI-based activity is an **observed aviation activity signal**, not a direct measure of commercial demand or airline financial performance.
+
+---
+
+## Repository Structure
+
+```text
+AeroPulse/
+│
+├── data/
+│   ├── raw/
+│   ├── processed/
+│   └── ...
+│
+├── docs/
+│   ├── advisor_data_model.md
+│   ├── advisor_pipeline.md
+│   ├── analytical_variables.md
+│   ├── business_questions.md
+│   ├── dashboard_requirements.md
+│   ├── data_freshness.md
+│   ├── data_model.md
+│   ├── data_requirements_checklist.md
+│   ├── data_scope.md
+│   ├── data_sources.md
+│   ├── kpi_definitions.md
+│   ├── recommendation_methodology.md
+│   └── source_evaluation.md
+│
+├── python/
+│   └── ...
+│
+├── sql/
+│   └── ...
+│
+├── .env.example
+├── .gitignore
+└── README.md
+```
+
+Raw and sensitive data are not intended to be committed to the public repository.
+
+---
+
+## Portfolio Links
+
+### Interactive Dashboard
+
+**AeroPulse — Looker Studio**
+
+https://datastudio.google.com/reporting/ed2e9d35-4cba-4dc0-8a02-220fd4f8e45f
+
+### GitHub Repository
+
+**AeroPulse — Aviation Route Opportunity Intelligence**
+
+https://github.com/GEmerentiana/AeroPulse
+
+---
+
+## Project Status
+
+The current portfolio release includes:
+
+- historical OPDI flight-activity analysis
+- route and airline performance analysis
+- Flight Choice Advisor
+- detailed flight-timing analysis
+- price and market evidence
+- passenger-experience analysis
+- BigQuery analytical models
+- Looker Studio dashboard
+- documented recommendation pipeline
+- documented data model
+- reproducible SQL transformation layers
+
+Future development areas include:
+
+- automating monthly OPDI updates
+- expanding traveler-profile logic
+- integrating reliable operational performance data
+- expanding fare observations
+- strengthening passenger-experience evidence
+- adding further interactive route intelligence
+
+---
+
+## Final Principle
+
+> **Use the strongest evidence available, make the calculation transparent, and never present unavailable data as if it existed.**
