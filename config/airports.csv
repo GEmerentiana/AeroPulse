@@ -1,0 +1,6 @@
+airport_name,iata_code,icao_code,city,country,airport_group
+Frankfurt Airport,FRA,EDDF,Frankfurt,Germany,Top 5 Germany
+Munich Airport,MUC,EDDM,Munich,Germany,Top 5 Germany
+Berlin Brandenburg Airport,BER,EDDB,Berlin,Germany,Top 5 Germany
+Dusseldorf Airport,DUS,EDDL,Dusseldorf,Germany,Top 5 Germany
+Hamburg Airport,HAM,EDDH,Hamburg,Germany,Top 5 Germany

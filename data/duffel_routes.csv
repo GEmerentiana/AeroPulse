@@ -1,0 +1,7 @@
+route_identifier,origin_iata,destination_iata
+EDDB-LEPA,BER,PMI
+EDDF-LEPA,FRA,PMI
+EDDL-LEPA,DUS,PMI
+EDDH-LEPA,HAM,PMI
+EDDM-LEPA,MUC,PMI
+EDDM-LEVC,MUC,VLC

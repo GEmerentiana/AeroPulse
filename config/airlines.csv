@@ -1,0 +1,9 @@
+airline_name,iata_code,icao_code,airline_type
+Lufthansa,LH,DLH,Legacy
+Air France,AF,AFR,Legacy
+KLM,KL,KLM,Legacy
+British Airways,BA,BAW,Legacy
+Ryanair,FR,RYR,Low Cost
+easyJet,U2,EZY,Low Cost
+Wizz Air,W6,WZZ,Low Cost
+Eurowings,EW,EWG,Low Cost

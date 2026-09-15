@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environments
+.venv/
+venv/
+env/
+
+# Secrets & credentials
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+service-account*.json
+*service_account*.json
+
+# External/raw datasets
+Skytrax Airline Review Data.xlsx
+data/opdi/*.parquet
+data/*_opdi*.parquet
+data/**/*_raw*.csv
+data/**/*raw*.csv
+
+# Local/generated temporary files
+*.log
+*.tmp
+*.bak
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# AeroPulse raw and large datasets
+data/raw/
+data/processed/**/*.parquet
+data/opdi/*.parquet
+
+# Price-data backups / development snapshots
+data/route_price_observations.csv
+data/route_price_observations_backup.csv
+
+
+# Local editor settings
+.vscode/
+
+# External airport source dataset
+data/opdi/ourairports_airports.csv
+
+# Previous Git history — keep local only
+.git_old/

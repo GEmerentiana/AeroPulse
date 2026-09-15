@@ -1,0 +1,4 @@
+traveller_group,review_count,overall_rating_rating,seat_comfort_rating,cabin_staff_service_rating,food_beverages_rating,inflight_entertainment_rating,ground_service_rating,wifi_connectivity_rating,value_for_money_rating
+Business,3605,4.0,2.72,3.04,2.64,2.64,2.45,2.26,2.34
+Leisure,14125,4.34,2.84,3.14,2.84,2.87,2.62,2.22,2.59
+Unknown,860,6.39,3.29,3.66,3.37,3.0,1.5,,3.4

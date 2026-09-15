@@ -1,0 +1,33 @@
+country_name,country_code,is_europe
+Germany,DE,TRUE
+France,FR,TRUE
+Netherlands,NL,TRUE
+United Kingdom,GB,TRUE
+Spain,ES,TRUE
+Italy,IT,TRUE
+Switzerland,CH,TRUE
+Austria,AT,TRUE
+Belgium,BE,TRUE
+Denmark,DK,TRUE
+Sweden,SE,TRUE
+Norway,NO,TRUE
+Finland,FI,TRUE
+Portugal,PT,TRUE
+Ireland,IE,TRUE
+Poland,PL,TRUE
+Czech Republic,CZ,TRUE
+Hungary,HU,TRUE
+Greece,GR,TRUE
+Croatia,HR,TRUE
+Romania,RO,TRUE
+Bulgaria,BG,TRUE
+Slovenia,SI,TRUE
+Slovakia,SK,TRUE
+Serbia,RS,TRUE
+Estonia,EE,TRUE
+Latvia,LV,TRUE
+Lithuania,LT,TRUE
+Luxembourg,LU,TRUE
+Malta,MT,TRUE
+Cyprus,CY,TRUE
+Iceland,IS,TRUE

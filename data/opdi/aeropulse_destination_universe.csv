@@ -1,0 +1,241 @@
+route_type,adep,ades,origin_iata,origin_city,destination_iata,destination_city,destination_country,total_observed_flights,months_active,known_airline_flights,max_monthly_flights
+Domestic,EDDB,EDDF,BER,Berlin,FRA,Frankfurt am Main,Germany,4961,12,4100,513
+Domestic,EDDB,EDDM,BER,Berlin,MUC,Munich,Germany,3293,12,2789,358
+Domestic,EDDB,EDDK,BER,Berlin,CGN,Köln (Cologne),Germany,1813,12,1163,198
+Domestic,EDDB,EDDS,BER,Berlin,STR,Stuttgart,Germany,1358,12,1046,150
+Domestic,EDDB,EDDL,BER,Berlin,DUS,Düsseldorf,Germany,1123,12,845,125
+Domestic,EDDF,EDDM,FRA,Frankfurt am Main,MUC,Munich,Germany,5282,12,4368,542
+Domestic,EDDF,EDDB,FRA,Frankfurt am Main,BER,Berlin,Germany,5206,12,4305,541
+Domestic,EDDF,EDDH,FRA,Frankfurt am Main,HAM,Hamburg,Germany,4862,12,4065,478
+Domestic,EDDF,EDDP,FRA,Frankfurt am Main,LEJ,Schkeuditz,Germany,1810,12,1595,187
+Domestic,EDDF,EDDL,FRA,Frankfurt am Main,DUS,Düsseldorf,Germany,1762,12,1586,175
+Domestic,EDDF,EDDS,FRA,Frankfurt am Main,STR,Stuttgart,Germany,1509,12,1290,173
+Domestic,EDDF,EDDN,FRA,Frankfurt am Main,NUE,Nuremberg,Germany,1490,12,1398,153
+Domestic,EDDF,EDDV,FRA,Frankfurt am Main,HAJ,Hannover,Germany,1369,12,1305,146
+Domestic,EDDF,EDDW,FRA,Frankfurt am Main,BRE,Bremen,Germany,1368,12,1326,149
+Domestic,EDDF,EDDC,FRA,Frankfurt am Main,DRS,Dresden,Germany,1141,12,1134,111
+Domestic,EDDH,EDDF,HAM,Hamburg,FRA,Frankfurt am Main,Germany,4631,12,3853,458
+Domestic,EDDH,EDDM,HAM,Hamburg,MUC,Munich,Germany,4538,12,4061,453
+Domestic,EDDH,EDDS,HAM,Hamburg,STR,Stuttgart,Germany,1216,12,1001,136
+Domestic,EDDH,EDDL,HAM,Hamburg,DUS,Düsseldorf,Germany,822,12,631,103
+Domestic,EDDH,ETNH,HAM,Hamburg,,Hohn,Germany,568,12,0,82
+Domestic,EDDL,EDDM,DUS,Düsseldorf,MUC,Munich,Germany,3845,12,3234,425
+Domestic,EDDL,EDDF,DUS,Düsseldorf,FRA,Frankfurt am Main,Germany,1728,12,1527,170
+Domestic,EDDL,EDDB,DUS,Düsseldorf,BER,Berlin,Germany,1143,12,865,124
+Domestic,EDDL,EDLW,DUS,Düsseldorf,DTM,Dortmund,Germany,919,12,52,100
+Domestic,EDDL,EDDH,DUS,Düsseldorf,HAM,Hamburg,Germany,814,12,618,94
+Domestic,EDDL,EDDK,DUS,Düsseldorf,CGN,Köln (Cologne),Germany,564,12,73,67
+Domestic,EDDM,EDDF,MUC,Munich,FRA,Frankfurt am Main,Germany,5202,12,4317,528
+Domestic,EDDM,EDDH,MUC,Munich,HAM,Hamburg,Germany,4510,12,4037,452
+Domestic,EDDM,EDDL,MUC,Munich,DUS,Düsseldorf,Germany,3816,12,3211,421
+Domestic,EDDM,EDDB,MUC,Munich,BER,Berlin,Germany,3252,12,2756,363
+Domestic,EDDM,EDDK,MUC,Munich,CGN,Köln (Cologne),Germany,2140,12,1584,237
+Domestic,EDDM,EDDW,MUC,Munich,BRE,Bremen,Germany,1462,12,1301,151
+Domestic,EDDM,EDDV,MUC,Munich,HAJ,Hannover,Germany,1417,12,1157,142
+Domestic,EDDM,EDDG,MUC,Munich,FMO,Greven,Germany,1159,12,871,110
+Domestic,EDDM,EDDS,MUC,Munich,STR,Stuttgart,Germany,1144,12,954,145
+Domestic,EDDM,EDDC,MUC,Munich,DRS,Dresden,Germany,944,12,828,113
+Domestic,EDDM,EDLP,MUC,Munich,PAD,Büren,Germany,506,12,450,79
+International,EDDB,LSZH,BER,Berlin,ZRH,Zurich,Switzerland,3563,12,2425,337
+International,EDDB,LOWW,BER,Berlin,VIE,Vienna,Austria,2674,12,2090,264
+International,EDDB,LFPG,BER,Berlin,CDG,"Paris (Roissy-en-France, Val-d'Oise)",France,2323,12,1258,238
+International,EDDB,EGLL,BER,Berlin,LHR,London,United Kingdom,2316,12,1750,228
+International,EDDB,EHAM,BER,Berlin,AMS,Amsterdam,Netherlands,2282,12,1662,228
+International,EDDB,LEPA,BER,Berlin,PMI,Palma de Mallorca,Spain,1891,12,1096,310
+International,EDDB,EKCH,BER,Berlin,CPH,Copenhagen,Denmark,1858,12,1149,201
+International,EDDB,LEBL,BER,Berlin,BCN,Barcelona,Spain,1772,12,1238,172
+International,EDDB,LTAI,BER,Berlin,AYT,Antalya,Türkiye,1357,12,735,253
+International,EDDB,EIDW,BER,Berlin,DUB,Dublin,Ireland,1304,12,983,128
+International,EDDB,EFHK,BER,Berlin,HEL,Helsinki (Vantaa),Finland,1295,12,1114,135
+International,EDDB,EBBR,BER,Berlin,BRU,Zaventem,Belgium,1270,12,1172,133
+International,EDDB,LFPO,BER,Berlin,ORY,"Paris (Orly, Val-de-Marne)",France,1269,12,402,158
+International,EDDB,LEMD,BER,Berlin,MAD,Madrid,Spain,1195,12,893,110
+International,EDDB,ESSA,BER,Berlin,ARN,Stockholm,Sweden,1188,12,713,124
+International,EDDB,EGSS,BER,Berlin,STN,"London, Essex",United Kingdom,1165,12,663,114
+International,EDDB,LTFJ,BER,Berlin,SAW,"Pendik, Istanbul",Türkiye,1128,11,422,168
+International,EDDB,LTFM,BER,Berlin,IST,Istanbul,Türkiye,1095,11,782,145
+International,EDDB,EGLC,BER,Berlin,LCY,London,United Kingdom,1052,12,680,106
+International,EDDB,LIRF,BER,Berlin,FCO,Rome,Italy,936,12,522,100
+International,EDDB,EGKK,BER,Berlin,LGW,London,United Kingdom,931,12,526,88
+International,EDDB,LGAV,BER,Berlin,ATH,Spata-Artemida,Greece,907,12,353,99
+International,EDDB,LHBP,BER,Berlin,BUD,Budapest,Hungary,892,12,404,98
+International,EDDB,EPWA,BER,Berlin,WAW,Warsaw,Poland,889,12,496,92
+International,EDDB,EGCC,BER,Berlin,MAN,"Manchester, Greater Manchester",United Kingdom,833,12,530,103
+International,EDDB,ENGM,BER,Berlin,OSL,Oslo (Gardermoen),Norway,814,12,401,84
+International,EDDB,LPPT,BER,Berlin,LIS,Lisbon,Portugal,807,12,503,116
+International,EDDB,LEMG,BER,Berlin,AGP,Málaga,Spain,803,12,506,80
+International,EDDB,LIML,BER,Berlin,LIN,Segrate (MI),Italy,708,12,396,70
+International,EDDB,LFMN,BER,Berlin,NCE,"Nice, Alpes-Maritimes",France,694,12,342,97
+International,EDDB,LLBG,BER,Berlin,TLV,Tel Aviv,Israel,623,12,342,85
+International,EDDB,LYBE,BER,Berlin,BEG,Belgrade,Serbia,557,12,315,55
+International,EDDB,EGPH,BER,Berlin,EDI,"Ingliston, Edinburgh",United Kingdom,553,12,359,57
+International,EDDB,LGTS,BER,Berlin,SKG,Thessaloniki,Greece,527,12,340,68
+International,EDDB,LSGG,BER,Berlin,GVA,Geneva,Switzerland,525,12,250,77
+International,EDDB,LFSB,BER,Berlin,BSL,Bâle / Mulhouse,France,504,12,164,60
+International,EDDF,EGLL,FRA,Frankfurt am Main,LHR,London,United Kingdom,5028,12,4500,494
+International,EDDF,LOWW,FRA,Frankfurt am Main,VIE,Vienna,Austria,4719,12,3750,451
+International,EDDF,LSZH,FRA,Frankfurt am Main,ZRH,Zurich,Switzerland,4052,12,2944,396
+International,EDDF,EHAM,FRA,Frankfurt am Main,AMS,Amsterdam,Netherlands,3544,12,3097,349
+International,EDDF,LFPG,FRA,Frankfurt am Main,CDG,"Paris (Roissy-en-France, Val-d'Oise)",France,3426,12,2591,345
+International,EDDF,LEMD,FRA,Frankfurt am Main,MAD,Madrid,Spain,3156,12,2217,299
+International,EDDF,LIRF,FRA,Frankfurt am Main,FCO,Rome,Italy,2717,12,1843,329
+International,EDDF,LEBL,FRA,Frankfurt am Main,BCN,Barcelona,Spain,2684,12,2305,342
+International,EDDF,LIML,FRA,Frankfurt am Main,LIN,Segrate (MI),Italy,2656,12,1982,240
+International,EDDF,LIMC,FRA,Frankfurt am Main,MXP,Ferno (VA),Italy,2369,12,1664,268
+International,EDDF,LKPR,FRA,Frankfurt am Main,PRG,Prague,Czechia,2352,12,1673,230
+International,EDDF,EBBR,FRA,Frankfurt am Main,BRU,Zaventem,Belgium,2269,12,2061,232
+International,EDDF,EKCH,FRA,Frankfurt am Main,CPH,Copenhagen,Denmark,2264,12,1925,236
+International,EDDF,EPWA,FRA,Frankfurt am Main,WAW,Warsaw,Poland,2213,12,1710,211
+International,EDDF,LGAV,FRA,Frankfurt am Main,ATH,Spata-Artemida,Greece,1932,12,1290,195
+International,EDDF,LEPA,FRA,Frankfurt am Main,PMI,Palma de Mallorca,Spain,1930,12,1279,376
+International,EDDF,EIDW,FRA,Frankfurt am Main,DUB,Dublin,Ireland,1856,12,1770,171
+International,EDDF,LHBP,FRA,Frankfurt am Main,BUD,Budapest,Hungary,1822,12,1750,233
+International,EDDF,LSGG,FRA,Frankfurt am Main,GVA,Geneva,Switzerland,1734,12,1455,189
+International,EDDF,LTFM,FRA,Frankfurt am Main,IST,Istanbul,Türkiye,1704,11,1356,225
+International,EDDF,ESSA,FRA,Frankfurt am Main,ARN,Stockholm,Sweden,1661,12,1540,163
+International,EDDF,LIPZ,FRA,Frankfurt am Main,VCE,Venezia (VE),Italy,1654,12,1451,233
+International,EDDF,LPPT,FRA,Frankfurt am Main,LIS,Lisbon,Portugal,1650,12,1365,205
+International,EDDF,EFHK,FRA,Frankfurt am Main,HEL,Helsinki (Vantaa),Finland,1601,12,1373,147
+International,EDDF,ENGM,FRA,Frankfurt am Main,OSL,Oslo (Gardermoen),Norway,1562,12,1530,154
+International,EDDF,ELLX,FRA,Frankfurt am Main,LUX,Luxembourg,Luxembourg,1470,12,932,145
+International,EDDF,EPKK,FRA,Frankfurt am Main,KRK,Balice,Poland,1300,12,1279,130
+International,EDDF,LOWS,FRA,Frankfurt am Main,SZG,Salzburg,Austria,1288,12,1254,138
+International,EDDF,ESGG,FRA,Frankfurt am Main,GOT,Göteborg,Sweden,1217,12,1171,132
+International,EDDF,EGCC,FRA,Frankfurt am Main,MAN,"Manchester, Greater Manchester",United Kingdom,1214,12,1124,117
+International,EDDF,LROP,FRA,Frankfurt am Main,OTP,Otopeni,Romania,1214,12,1130,144
+International,EDDF,EKBI,FRA,Frankfurt am Main,BLL,Billund,Denmark,1200,12,1085,124
+International,EDDF,LYBE,FRA,Frankfurt am Main,BEG,Belgrade,Serbia,1198,12,1095,127
+International,EDDF,LFSB,FRA,Frankfurt am Main,BSL,Bâle / Mulhouse,France,1197,12,763,144
+International,EDDF,LIPE,FRA,Frankfurt am Main,BLQ,Bologna,Italy,1181,12,937,120
+International,EDDF,LFLL,FRA,Frankfurt am Main,LYS,"Colombier-Saugnieu, Rhône",France,1179,12,1099,114
+International,EDDF,LFMN,FRA,Frankfurt am Main,NCE,"Nice, Alpes-Maritimes",France,1118,12,1038,130
+International,EDDF,EGBB,FRA,Frankfurt am Main,BHX,"Birmingham, West Midlands",United Kingdom,1112,12,953,133
+International,EDDF,EGLC,FRA,Frankfurt am Main,LCY,London,United Kingdom,1027,12,552,138
+International,EDDF,LPPR,FRA,Frankfurt am Main,OPO,Porto,Portugal,983,12,860,105
+International,EDDF,LOWG,FRA,Frankfurt am Main,GRZ,Feldkirchen bei Graz,Austria,979,12,534,104
+International,EDDF,LTAI,FRA,Frankfurt am Main,AYT,Antalya,Türkiye,961,12,516,197
+International,EDDF,EPPO,FRA,Frankfurt am Main,POZ,Poznań,Poland,918,12,912,93
+International,EDDF,LTFJ,FRA,Frankfurt am Main,SAW,"Pendik, Istanbul",Türkiye,908,11,370,136
+International,EDDF,LLBG,FRA,Frankfurt am Main,TLV,Tel Aviv,Israel,906,12,627,140
+International,EDDF,EPWR,FRA,Frankfurt am Main,WRO,Wrocław,Poland,882,11,513,105
+International,EDDF,EGPH,FRA,Frankfurt am Main,EDI,"Ingliston, Edinburgh",United Kingdom,856,12,817,93
+International,EDDF,EVRA,FRA,Frankfurt am Main,RIX,Riga,Latvia,842,12,709,90
+International,EDDF,LMML,FRA,Frankfurt am Main,MLA,Valletta,Malta,832,12,729,88
+International,EDDF,LFML,FRA,Frankfurt am Main,MRS,"Marignane, Bouches-du-Rhône",France,829,12,775,88
+International,EDDF,EETN,FRA,Frankfurt am Main,TLL,Tallinn,Estonia,822,12,780,84
+International,EDDF,LIMF,FRA,Frankfurt am Main,TRN,Caselle Torinese (TO),Italy,784,12,472,78
+International,EDDF,LGTS,FRA,Frankfurt am Main,SKG,Thessaloniki,Greece,772,12,738,91
+International,EDDF,LJLJ,FRA,Frankfurt am Main,LJU,Zgornji Brnik,Slovenia,728,12,642,82
+International,EDDF,LEMG,FRA,Frankfurt am Main,AGP,Málaga,Spain,724,12,534,87
+International,EDDF,ENBR,FRA,Frankfurt am Main,BGO,Bergen,Norway,657,12,617,84
+International,EDDF,LEVC,FRA,Frankfurt am Main,VLC,Valencia,Spain,630,12,586,82
+International,EDDF,EYVI,FRA,Frankfurt am Main,VNO,Vilnius,Lithuania,627,12,612,79
+International,EDDF,LIPX,FRA,Frankfurt am Main,VRN,Caselle (VR),Italy,615,12,348,60
+International,EDDF,LBSF,FRA,Frankfurt am Main,SOF,Sofia,Bulgaria,592,11,537,113
+International,EDDF,LFPB,FRA,Frankfurt am Main,LBG,Paris,France,577,12,312,63
+International,EDDF,LDZA,FRA,Frankfurt am Main,ZAG,Velika Gorica,Croatia,572,12,319,73
+International,EDDF,EPKT,FRA,Frankfurt am Main,KTW,Katowice,Poland,552,11,316,74
+International,EDDF,LCLK,FRA,Frankfurt am Main,LCA,Larnaca,Cyprus,522,12,393,98
+International,EDDF,LIPQ,FRA,Frankfurt am Main,TRS,Ronchi dei Legionari/Trieste,Italy,509,12,256,54
+International,EDDH,LSZH,HAM,Hamburg,ZRH,Zurich,Switzerland,2529,12,1964,228
+International,EDDH,EGLL,HAM,Hamburg,LHR,London,United Kingdom,2148,12,1795,209
+International,EDDH,LOWW,HAM,Hamburg,VIE,Vienna,Austria,2131,12,1785,206
+International,EDDH,LEPA,HAM,Hamburg,PMI,Palma de Mallorca,Spain,1858,12,947,317
+International,EDDH,EHAM,HAM,Hamburg,AMS,Amsterdam,Netherlands,1726,12,1327,162
+International,EDDH,EKCH,HAM,Hamburg,CPH,Copenhagen,Denmark,1495,12,288,146
+International,EDDH,LFPG,HAM,Hamburg,CDG,"Paris (Roissy-en-France, Val-d'Oise)",France,1389,12,844,140
+International,EDDH,LTAI,HAM,Hamburg,AYT,Antalya,Türkiye,999,12,528,179
+International,EDDH,LEBL,HAM,Hamburg,BCN,Barcelona,Spain,979,12,796,111
+International,EDDH,EFHK,HAM,Hamburg,HEL,Helsinki (Vantaa),Finland,927,12,914,91
+International,EDDH,LTFM,HAM,Hamburg,IST,Istanbul,Türkiye,908,11,617,137
+International,EDDH,EPWA,HAM,Hamburg,WAW,Warsaw,Poland,896,12,516,87
+International,EDDH,LEMD,HAM,Hamburg,MAD,Madrid,Spain,843,12,555,92
+International,EDDH,LTFJ,HAM,Hamburg,SAW,"Pendik, Istanbul",Türkiye,738,11,342,106
+International,EDDH,LIRF,HAM,Hamburg,FCO,Rome,Italy,711,12,431,80
+International,EDDH,LIMC,HAM,Hamburg,MXP,Ferno (VA),Italy,677,12,360,69
+International,EDDH,ESSA,HAM,Hamburg,ARN,Stockholm,Sweden,638,12,377,73
+International,EDDH,EBBR,HAM,Hamburg,BRU,Zaventem,Belgium,603,12,573,57
+International,EDDH,EIDW,HAM,Hamburg,DUB,Dublin,Ireland,594,12,480,59
+International,EDDH,LPPT,HAM,Hamburg,LIS,Lisbon,Portugal,578,12,412,79
+International,EDDL,LEPA,DUS,Düsseldorf,PMI,Palma de Mallorca,Spain,2864,12,1766,531
+International,EDDL,EGLL,DUS,Düsseldorf,LHR,London,United Kingdom,2732,12,2072,286
+International,EDDL,LOWW,DUS,Düsseldorf,VIE,Vienna,Austria,2195,12,1873,210
+International,EDDL,LTAI,DUS,Düsseldorf,AYT,Antalya,Türkiye,2185,12,1245,396
+International,EDDL,LSZH,DUS,Düsseldorf,ZRH,Zurich,Switzerland,2129,12,1585,202
+International,EDDL,EHAM,DUS,Düsseldorf,AMS,Amsterdam,Netherlands,1716,12,1217,158
+International,EDDL,LTFJ,DUS,Düsseldorf,SAW,"Pendik, Istanbul",Türkiye,1449,11,578,212
+International,EDDL,EKCH,DUS,Düsseldorf,CPH,Copenhagen,Denmark,1396,12,763,143
+International,EDDL,LEBL,DUS,Düsseldorf,BCN,Barcelona,Spain,1358,12,1142,153
+International,EDDL,LEMD,DUS,Düsseldorf,MAD,Madrid,Spain,1219,12,1011,120
+International,EDDL,EPWA,DUS,Düsseldorf,WAW,Warsaw,Poland,1119,12,546,109
+International,EDDL,LIMC,DUS,Düsseldorf,MXP,Ferno (VA),Italy,1048,12,663,125
+International,EDDL,LFPG,DUS,Düsseldorf,CDG,"Paris (Roissy-en-France, Val-d'Oise)",France,1018,12,660,117
+International,EDDL,LTFM,DUS,Düsseldorf,IST,Istanbul,Türkiye,941,11,709,142
+International,EDDL,LGAV,DUS,Düsseldorf,ATH,Spata-Artemida,Greece,831,12,442,84
+International,EDDL,EFHK,DUS,Düsseldorf,HEL,Helsinki (Vantaa),Finland,795,12,769,81
+International,EDDL,EIDW,DUS,Düsseldorf,DUB,Dublin,Ireland,763,12,693,79
+International,EDDL,LGTS,DUS,Düsseldorf,SKG,Thessaloniki,Greece,727,12,474,94
+International,EDDL,EGCC,DUS,Düsseldorf,MAN,"Manchester, Greater Manchester",United Kingdom,665,12,596,69
+International,EDDL,LFPB,DUS,Düsseldorf,LBG,Paris,France,648,12,390,90
+International,EDDL,LPPT,DUS,Düsseldorf,LIS,Lisbon,Portugal,647,12,486,87
+International,EDDL,ESSA,DUS,Düsseldorf,ARN,Stockholm,Sweden,626,12,385,77
+International,EDDL,LEMG,DUS,Düsseldorf,AGP,Málaga,Spain,596,12,567,71
+International,EDDL,LKPR,DUS,Düsseldorf,PRG,Prague,Czechia,585,12,308,66
+International,EDDL,EGBB,DUS,Düsseldorf,BHX,"Birmingham, West Midlands",United Kingdom,581,12,505,59
+International,EDDL,LIML,DUS,Düsseldorf,LIN,Segrate (MI),Italy,559,12,432,57
+International,EDDL,LOWS,DUS,Düsseldorf,SZG,Salzburg,Austria,558,12,291,61
+International,EDDL,LIRF,DUS,Düsseldorf,FCO,Rome,Italy,518,12,437,64
+International,EDDL,LGRP,DUS,Düsseldorf,RHO,Rhodes,Greece,501,11,350,80
+International,EDDM,EGLL,MUC,Munich,LHR,London,United Kingdom,4429,12,3593,430
+International,EDDM,EHAM,MUC,Munich,AMS,Amsterdam,Netherlands,3563,12,3078,331
+International,EDDM,LFPG,MUC,Munich,CDG,"Paris (Roissy-en-France, Val-d'Oise)",France,3015,12,1913,299
+International,EDDM,LEMD,MUC,Munich,MAD,Madrid,Spain,2902,12,1997,274
+International,EDDM,LEBL,MUC,Munich,BCN,Barcelona,Spain,2547,12,1943,243
+International,EDDM,LIRF,MUC,Munich,FCO,Rome,Italy,2493,12,1602,254
+International,EDDM,LGAV,MUC,Munich,ATH,Spata-Artemida,Greece,2362,12,1564,244
+International,EDDM,EKCH,MUC,Munich,CPH,Copenhagen,Denmark,2325,12,1601,241
+International,EDDM,LSZH,MUC,Munich,ZRH,Zurich,Switzerland,2171,12,1501,197
+International,EDDM,EBBR,MUC,Munich,BRU,Zaventem,Belgium,2169,12,1910,210
+International,EDDM,EPWA,MUC,Munich,WAW,Warsaw,Poland,2030,12,1303,202
+International,EDDM,LOWW,MUC,Munich,VIE,Vienna,Austria,1809,12,1500,169
+International,EDDM,LEPA,MUC,Munich,PMI,Palma de Mallorca,Spain,1624,12,905,256
+International,EDDM,LIMC,MUC,Munich,MXP,Ferno (VA),Italy,1584,12,1178,180
+International,EDDM,EFHK,MUC,Munich,HEL,Helsinki (Vantaa),Finland,1466,12,1118,143
+International,EDDM,ESSA,MUC,Munich,ARN,Stockholm,Sweden,1374,12,1183,143
+International,EDDM,LHBP,MUC,Munich,BUD,Budapest,Hungary,1331,12,1189,142
+International,EDDM,LIML,MUC,Munich,LIN,Segrate (MI),Italy,1326,12,805,170
+International,EDDM,LIPZ,MUC,Munich,VCE,Venezia (VE),Italy,1309,12,997,157
+International,EDDM,EIDW,MUC,Munich,DUB,Dublin,Ireland,1285,12,861,128
+International,EDDM,LPPT,MUC,Munich,LIS,Lisbon,Portugal,1229,12,900,140
+International,EDDM,LIPE,MUC,Munich,BLQ,Bologna,Italy,1206,12,937,122
+International,EDDM,LFMN,MUC,Munich,NCE,"Nice, Alpes-Maritimes",France,1198,12,981,158
+International,EDDM,ELLX,MUC,Munich,LUX,Luxembourg,Luxembourg,1179,12,1082,140
+International,EDDM,ENGM,MUC,Munich,OSL,Oslo (Gardermoen),Norway,1166,12,975,122
+International,EDDM,LSGG,MUC,Munich,GVA,Geneva,Switzerland,1154,12,896,161
+International,EDDM,LTFM,MUC,Munich,IST,Istanbul,Türkiye,1137,11,923,168
+International,EDDM,LKPR,MUC,Munich,PRG,Prague,Czechia,1079,12,727,126
+International,EDDM,LTAI,MUC,Munich,AYT,Antalya,Türkiye,1046,12,581,238
+International,EDDM,LROP,MUC,Munich,OTP,Otopeni,Romania,1044,12,750,107
+International,EDDM,EGCC,MUC,Munich,MAN,"Manchester, Greater Manchester",United Kingdom,1027,12,610,109
+International,EDDM,LTFJ,MUC,Munich,SAW,"Pendik, Istanbul",Türkiye,998,11,407,134
+International,EDDM,EPKK,MUC,Munich,KRK,Balice,Poland,995,12,909,109
+International,EDDM,LMML,MUC,Munich,MLA,Valletta,Malta,981,12,444,101
+International,EDDM,LFBO,MUC,Munich,TLS,Toulouse/Blagnac,France,967,12,847,119
+International,EDDM,LOWG,MUC,Munich,GRZ,Feldkirchen bei Graz,Austria,949,12,753,89
+International,EDDM,ESGG,MUC,Munich,GOT,Göteborg,Sweden,914,12,746,94
+International,EDDM,LFLL,MUC,Munich,LYS,"Colombier-Saugnieu, Rhône",France,851,12,709,91
+International,EDDM,LIMF,MUC,Munich,TRN,Caselle Torinese (TO),Italy,844,12,663,87
+International,EDDM,LGTS,MUC,Munich,SKG,Thessaloniki,Greece,832,12,819,104
+International,EDDM,LFSB,MUC,Munich,BSL,Bâle / Mulhouse,France,808,12,724,94
+International,EDDM,LYBE,MUC,Munich,BEG,Belgrade,Serbia,743,12,497,112
+International,EDDM,LFML,MUC,Munich,MRS,"Marignane, Bouches-du-Rhône",France,733,12,646,96
+International,EDDM,LLBG,MUC,Munich,TLV,Tel Aviv,Israel,733,12,500,102
+International,EDDM,LEMG,MUC,Munich,AGP,Málaga,Spain,693,12,469,77
+International,EDDM,LIPX,MUC,Munich,VRN,Caselle (VR),Italy,618,12,451,63
+International,EDDM,EPWR,MUC,Munich,WRO,Wrocław,Poland,598,10,560,86
+International,EDDM,LFPB,MUC,Munich,LBG,Paris,France,585,12,252,70
+International,EDDM,LPPR,MUC,Munich,OPO,Porto,Portugal,583,12,546,66
+International,EDDM,LOWS,MUC,Munich,SZG,Salzburg,Austria,579,12,10,90
+International,EDDM,LBSF,MUC,Munich,SOF,Sofia,Bulgaria,547,11,459,88
+International,EDDM,EVRA,MUC,Munich,RIX,Riga,Latvia,541,12,387,53
+International,EDDM,LIMJ,MUC,Munich,GOA,Genova (GE),Italy,537,12,416,62

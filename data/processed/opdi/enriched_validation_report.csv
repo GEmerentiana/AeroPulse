@@ -1,0 +1,26 @@
+test,status,details
+Expected schema,PASS,All 61 expected columns present; no unexpected columns.
+Rows exist,PASS,"1,151,876 enriched flight records found."
+Valid flight dates,PASS,No invalid or missing flight dates.
+All 12 months present,PASS,August 2025 through July 2026 are all represented.
+Records inside 12-month window,PASS,All records are between 2025-08-01 and 2026-07-31.
+Duplicate flight IDs,PASS,No duplicate flight IDs found.
+All target airports present,PASS,"FRA, MUC, BER, DUS and HAM are represented."
+All target airlines present,PASS,All 8 target airline operator codes are represented.
+Target airline mapping,PASS,Each target operator maps consistently to the intended airline name.
+Airline categories,PASS,Legacy and Low-cost classifications are consistent.
+Airport reference available,PASS,"790,128 records have complete endpoint reference data (68.6%)."
+Departure country enrichment,PASS,"956,903 records have known departure country (83.1%)."
+Arrival country enrichment,PASS,"985,101 records have known arrival country (85.5%)."
+Germany flags,PASS,Germany flags match airport country code DE.
+Europe flags,PASS,Europe flags correctly match OurAirports continent code EU.
+Both endpoints in Europe,PASS,both_endpoints_in_europe is logically consistent.
+Airport reference flag,PASS,airport_reference_complete is logically consistent.
+Geographic scope values,PASS,All network geographic scope values are valid.
+Geographic scope logic,PASS,Network geographic scope is logically consistent.
+Route completeness,PASS,"790,140 complete routes (68.6%)."
+Target airline records,PASS,"430,228 records belong to the 8 target airlines (37.4%)."
+Timestamps,PASS,All timestamps are valid and no negative durations exist.
+Data quality status,PASS,Data quality status distribution generated.
+Monthly record coverage,PASS,12 months contain records.
+BigQuery readiness,PASS,All critical validation checks passed.

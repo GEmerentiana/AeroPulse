@@ -1,0 +1,129 @@
+airline_name,metric,total_reviews,valid_reviews,coverage_pct
+Aegean Airlines,over_all_rating,620,620,100.0
+Aegean Airlines,seat_comfort,620,597,96.29
+Aegean Airlines,cabin_staff_service,620,594,95.81
+Aegean Airlines,food__beverages,620,539,86.94
+Aegean Airlines,inflight_entertainment,620,249,40.16
+Aegean Airlines,ground_service,620,586,94.52
+Aegean Airlines,wifi__connectivity,620,138,22.26
+Aegean Airlines,value_for_money,620,620,100.0
+Aer Lingus,over_all_rating,660,656,99.39
+Aer Lingus,seat_comfort,660,615,93.18
+Aer Lingus,cabin_staff_service,660,611,92.58
+Aer Lingus,food__beverages,660,479,72.58
+Aer Lingus,inflight_entertainment,660,343,51.97
+Aer Lingus,ground_service,660,605,91.67
+Aer Lingus,wifi__connectivity,660,196,29.7
+Aer Lingus,value_for_money,660,660,100.0
+Air France,over_all_rating,1140,1140,100.0
+Air France,seat_comfort,1140,1094,95.96
+Air France,cabin_staff_service,1140,1088,95.44
+Air France,food__beverages,1140,994,87.19
+Air France,inflight_entertainment,1140,784,68.77
+Air France,ground_service,1140,1051,92.19
+Air France,wifi__connectivity,1140,319,27.98
+Air France,value_for_money,1140,1140,100.0
+Air Nostrum,over_all_rating,20,20,100.0
+Air Nostrum,seat_comfort,20,19,95.0
+Air Nostrum,cabin_staff_service,20,19,95.0
+Air Nostrum,food__beverages,20,9,45.0
+Air Nostrum,inflight_entertainment,20,3,15.0
+Air Nostrum,ground_service,20,19,95.0
+Air Nostrum,wifi__connectivity,20,3,15.0
+Air Nostrum,value_for_money,20,20,100.0
+Austrian Airlines,over_all_rating,560,558,99.64
+Austrian Airlines,seat_comfort,560,532,95.0
+Austrian Airlines,cabin_staff_service,560,526,93.93
+Austrian Airlines,food__beverages,560,455,81.25
+Austrian Airlines,inflight_entertainment,560,268,47.86
+Austrian Airlines,ground_service,560,517,92.32
+Austrian Airlines,wifi__connectivity,560,117,20.89
+Austrian Airlines,value_for_money,560,559,99.82
+British Airways,over_all_rating,3470,3469,99.97
+British Airways,seat_comfort,3470,3343,96.34
+British Airways,cabin_staff_service,3470,3328,95.91
+British Airways,food__beverages,3470,3023,87.12
+British Airways,inflight_entertainment,3470,2206,63.57
+British Airways,ground_service,3470,3110,89.63
+British Airways,wifi__connectivity,3470,704,20.29
+British Airways,value_for_money,3470,3470,100.0
+Brussels Airlines,over_all_rating,390,388,99.49
+Brussels Airlines,seat_comfort,390,371,95.13
+Brussels Airlines,cabin_staff_service,390,371,95.13
+Brussels Airlines,food__beverages,390,255,65.38
+Brussels Airlines,inflight_entertainment,390,149,38.21
+Brussels Airlines,ground_service,390,369,94.62
+Brussels Airlines,wifi__connectivity,390,67,17.18
+Brussels Airlines,value_for_money,390,389,99.74
+Delta Air Lines,over_all_rating,2860,2837,99.2
+Delta Air Lines,seat_comfort,2860,2724,95.24
+Delta Air Lines,cabin_staff_service,2860,2715,94.93
+Delta Air Lines,food__beverages,2860,2131,74.51
+Delta Air Lines,inflight_entertainment,2860,1922,67.2
+Delta Air Lines,ground_service,2860,2697,94.3
+Delta Air Lines,wifi__connectivity,2860,1536,53.71
+Delta Air Lines,value_for_money,2860,2858,99.93
+Finnair,over_all_rating,620,617,99.52
+Finnair,seat_comfort,620,596,96.13
+Finnair,cabin_staff_service,620,595,95.97
+Finnair,food__beverages,620,540,87.1
+Finnair,inflight_entertainment,620,436,70.32
+Finnair,ground_service,620,576,92.9
+Finnair,wifi__connectivity,620,236,38.06
+Finnair,value_for_money,620,620,100.0
+KLM,over_all_rating,1400,1395,99.64
+KLM,seat_comfort,1400,1331,95.07
+KLM,cabin_staff_service,1400,1329,94.93
+KLM,food__beverages,1400,1203,85.93
+KLM,inflight_entertainment,1400,892,63.71
+KLM,ground_service,1400,1304,93.14
+KLM,wifi__connectivity,1400,430,30.71
+KLM,value_for_money,1400,1400,100.0
+LOT Polish Airlines,over_all_rating,600,600,100.0
+LOT Polish Airlines,seat_comfort,600,552,92.0
+LOT Polish Airlines,cabin_staff_service,600,550,91.67
+LOT Polish Airlines,food__beverages,600,480,80.0
+LOT Polish Airlines,inflight_entertainment,600,324,54.0
+LOT Polish Airlines,ground_service,600,565,94.17
+LOT Polish Airlines,wifi__connectivity,600,186,31.0
+LOT Polish Airlines,value_for_money,600,600,100.0
+Lufthansa,over_all_rating,2130,2130,100.0
+Lufthansa,seat_comfort,2130,2009,94.32
+Lufthansa,cabin_staff_service,2130,2000,93.9
+Lufthansa,food__beverages,2130,1817,85.31
+Lufthansa,inflight_entertainment,2130,1266,59.44
+Lufthansa,ground_service,2130,1953,91.69
+Lufthansa,wifi__connectivity,2130,679,31.88
+Lufthansa,value_for_money,2130,2130,100.0
+SAS,over_all_rating,670,666,99.4
+SAS,seat_comfort,670,627,93.58
+SAS,cabin_staff_service,670,625,93.28
+SAS,food__beverages,670,512,76.42
+SAS,inflight_entertainment,670,346,51.64
+SAS,ground_service,670,620,92.54
+SAS,wifi__connectivity,670,277,41.34
+SAS,value_for_money,670,669,99.85
+SWISS,over_all_rating,830,830,100.0
+SWISS,seat_comfort,830,787,94.82
+SWISS,cabin_staff_service,830,780,93.98
+SWISS,food__beverages,830,699,84.22
+SWISS,inflight_entertainment,830,493,59.4
+SWISS,ground_service,830,773,93.13
+SWISS,wifi__connectivity,830,203,24.46
+SWISS,value_for_money,830,830,100.0
+Turkish Airlines,over_all_rating,2440,2440,100.0
+Turkish Airlines,seat_comfort,2440,2265,92.83
+Turkish Airlines,cabin_staff_service,2440,2259,92.58
+Turkish Airlines,food__beverages,2440,2103,86.19
+Turkish Airlines,inflight_entertainment,2440,1908,78.2
+Turkish Airlines,ground_service,2440,2212,90.66
+Turkish Airlines,wifi__connectivity,2440,994,40.74
+Turkish Airlines,value_for_money,2440,2440,100.0
+airBaltic,over_all_rating,180,179,99.44
+airBaltic,seat_comfort,180,173,96.11
+airBaltic,cabin_staff_service,180,173,96.11
+airBaltic,food__beverages,180,104,57.78
+airBaltic,inflight_entertainment,180,50,27.78
+airBaltic,ground_service,180,171,95.0
+airBaltic,wifi__connectivity,180,38,21.11
+airBaltic,value_for_money,180,180,100.0

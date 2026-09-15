@@ -1,0 +1,1104 @@
+airport_icao,airport_iata,airport_name,airport_city,country_code,match_status,country_name
+BG-JAM,JAM,Bezmer Air Base,Bezmer,BG,Matched,Bulgaria
+BIHN,HFN,Hornafjörður Airport,Höfn,IS,Matched,Iceland
+BIKF,KEF,Keflavik International Airport,Reykjavík,IS,Matched,Iceland
+BIRK,RKV,Reykjavík Domestic Airport,Reykjavík,IS,Matched,Iceland
+BIVM,VEY,Vestmannaeyjar Airport,Vestmannaeyjar,IS,Matched,Iceland
+BKPR,PRN,Priština Adem Jashari International Airport,Prishtina,XK,Matched,Kosovo
+BY-0001,TXC,Orsha Airport - Balbasovo Air Base,Orsha,BY,Matched,Belarus
+BY-0003,,Bobrovichi Air Base,Kalinovichi,BY,Matched,Belarus
+BY-0006,,Osovtsy Air Base,Byaroza,BY,Matched,Belarus
+CY-0002,,,,,Unmatched,Unknown
+DAAB,,Blida Airport,Blida,DZ,Matched,Algeria
+DAAE,BJA,Soummam–Abane Ramdane Airport,Béjaïa,DZ,Matched,Algeria
+DAAG,ALG,Houari Boumediene Airport,Algiers,DZ,Matched,Algeria
+DAAK,,Boufarik Air Base,Boufarik,DZ,Matched,Algeria
+DAAV,GJL,Jijel Ferhat Abbas Airport,Tahir,DZ,Matched,Algeria
+DAAZ,,Relizane Airport,Relizane,DZ,Matched,Algeria
+DABB,AAE,Annaba Rabah Bitat Airport,Annaba,DZ,Matched,Algeria
+DABC,CZL,Mohamed Boudiaf International Airport,Constantine,DZ,Matched,Algeria
+DAOI,CFK,Chlef Aboubakr Belkaid International Airport,Chlef,DZ,Matched,Algeria
+DAOL,TAF,Oran Tafraoui Airport,Tafraoui,DZ,Matched,Algeria
+DAON,TLM,Zenata – Messali El Hadj Airport,Zenata,DZ,Matched,Algeria
+DAOO,ORN,Oran Es-Sénia (Ahmed Ben Bella) International Airport,Es-Sénia,DZ,Matched,Algeria
+DAOV,MUW,Ghriss Airport,Ghriss,DZ,Matched,Algeria
+DTKA,TBJ,Tabarka-Aïn Draham International Airport,Tabarka,TN,Matched,Tunisia
+DTMB,MIR,Monastir Habib Bourguiba International Airport,Monastir,TN,Matched,Tunisia
+DTNH,NBE,Enfidha - Hammamet International Airport,Enfidha,TN,Matched,Tunisia
+DTTA,TUN,Tunis Carthage International Airport,Tunis,TN,Matched,Tunisia
+DTTB,,Bizerte Sidi Ahmed Air Base,Borj Challouf,TN,Matched,Tunisia
+DTTD,,Remada Air Base,Remada,TN,Matched,Tunisia
+DTTG,GAE,Gabès Matmata International Airport,Gabès,TN,Matched,Tunisia
+DTTJ,DJE,Djerba Zarzis International Airport,Mellita,TN,Matched,Tunisia
+DTTX,SFA,Sfax Thyna International Airport,Sfax,TN,Matched,Tunisia
+EBAW,ANR,Antwerp International Airport (Deurne),Antwerp,BE,Matched,Belgium
+EBBE,,Beauvechain Air Base,Beauvechain,BE,Matched,Belgium
+EBBL,,Kleine Brogel Air Base,Kleine Brogel,BE,Matched,Belgium
+EBBR,BRU,Brussels Airport,Zaventem,BE,Matched,Belgium
+EBCI,CRL,Brussels South Charleroi Airport,Charleroi,BE,Matched,Belgium
+EBCV,,Chièvres Air Base,Chièvres,BE,Matched,Belgium
+EBFN,,Koksijde Air Base,Koksijde,BE,Matched,Belgium
+EBFS,,Florennes Air Base,Florennes,BE,Matched,Belgium
+EBKT,KJK,Kortrijk-Wevelgem International Airport,Wevelgem,BE,Matched,Belgium
+EBLG,LGG,Liège Airport,Grâce-Hollogne,BE,Matched,Belgium
+EBOS,OST,Ostend-Bruges International Airport,Oostende,BE,Matched,Belgium
+EDAC,AOC,Leipzig–Altenburg Airport,Nobitz,DE,Matched,Germany
+EDAH,HDF,Heringsdorf Airport,Zirchow,DE,Matched,Germany
+EDBN,FNB,Neubrandenburg Trollenhagen Airport,Trollenhagen,DE,Matched,Germany
+EDBR,,Rothenburg/Görlitz Airfield,Rothenburg/Oberlausitz,DE,Matched,Germany
+EDDB,BER,Berlin Brandenburg Airport,Berlin,DE,Matched,Germany
+EDDC,DRS,Dresden Airport,Dresden,DE,Matched,Germany
+EDDE,ERF,Erfurt-Weimar Airport,Erfurt,DE,Matched,Germany
+EDDF,FRA,Frankfurt Main Airport,Frankfurt am Main,DE,Matched,Germany
+EDDG,FMO,Münster Osnabrück Airport,Greven,DE,Matched,Germany
+EDDH,HAM,Hamburg Helmut Schmidt Airport,Hamburg,DE,Matched,Germany
+EDDK,CGN,Cologne Bonn Airport,Köln (Cologne),DE,Matched,Germany
+EDDL,DUS,Düsseldorf Airport,Düsseldorf,DE,Matched,Germany
+EDDM,MUC,Munich Airport,Munich,DE,Matched,Germany
+EDDN,NUE,Nuremberg Airport,Nuremberg,DE,Matched,Germany
+EDDP,LEJ,Leipzig/Halle Airport,Schkeuditz,DE,Matched,Germany
+EDDR,SCN,Saarbrücken Airport,Saarbrücken,DE,Matched,Germany
+EDDS,STR,Stuttgart Airport,Stuttgart,DE,Matched,Germany
+EDDV,HAJ,Hannover Airport,Hannover,DE,Matched,Germany
+EDDW,BRE,Bremen Airport,Bremen,DE,Matched,Germany
+EDFE,,Frankfurt-Egelsbach Airport,Egelsbach,DE,Matched,Germany
+EDFH,HHN,Frankfurt-Hahn Airport,Frankfurt am Main (Lautzenhausen),DE,Matched,Germany
+EDFM,MHG,Mannheim-City Airport,Mannheim,DE,Matched,Germany
+EDFZ,,Mainz-Finthen Airfield,Mainz,DE,Matched,Germany
+EDGE,EIB,Eisenach-Kindel Airport,Hörselberg-Hainich,DE,Matched,Germany
+EDGS,SGE,Siegerland Airport,Burbach,DE,Matched,Germany
+EDHI,XFW,Hamburg-Finkenwerder Airport,Hamburg,DE,Matched,Germany
+EDHK,KEL,Kiel-Holtenau Airport,Kiel,DE,Matched,Germany
+EDHL,LBC,Lübeck Blankensee Airport,Lübeck,DE,Matched,Germany
+EDJA,FMM,Memmingen Allgau Airport,Memmingen,DE,Matched,Germany
+EDLN,MGL,Mönchengladbach Airport,Mönchengladbach,DE,Matched,Germany
+EDLP,PAD,Paderborn Lippstadt Airport,Büren,DE,Matched,Germany
+EDLV,NRN,Weeze (Niederrhein) Airport,Weeze,DE,Matched,Germany
+EDLW,DTM,Dortmund Airport,Dortmund,DE,Matched,Germany
+EDMA,AGB,Augsburg Airport,Augsburg,DE,Matched,Germany
+EDMO,OBF,Oberpfaffenhofen Airport,Weßling,DE,Matched,Germany
+EDNY,FDH,Bodensee Airport Friedrichshafen,Friedrichshafen,DE,Matched,Germany
+EDQA,,Bamberg-Breitenau Airfield,Bamberg,DE,Matched,Germany
+EDQD,BYU,Bayreuth Airport,Bindlach,DE,Matched,Germany
+EDQM,HOQ,Hof-Plauen Airport,Hof,DE,Matched,Germany
+EDSB,FKB,Karlsruhe Baden-Baden Airport,Rheinmünster,DE,Matched,Germany
+EDTD,,Donaueschingen-Villingen Airfield,Donaueschingen,DE,Matched,Germany
+EDTL,LHA,Lahr Airport,Lahr/Schwarzwald,DE,Matched,Germany
+EDTY,,Adolf Würth Airport,Schwäbisch Hall,DE,Matched,Germany
+EDUZ,,Zerbst Airfield,Straguth,DE,Matched,Germany
+EDVE,BWE,Braunschweig-Wolfsburg Airport,Braunschweig,DE,Matched,Germany
+EDVK,KSF,Kassel Airport,Calden,DE,Matched,Germany
+EDXW,GWT,Westerland Sylt Airport,Sylt,DE,Matched,Germany
+EEEI,,Ämari Air Base,Keila,EE,Matched,Estonia
+EEKA,KDL,Kärdla Airport,Kärdla,EE,Matched,Estonia
+EEKE,URE,Kuressaare Airport,Kuressaare,EE,Matched,Estonia
+EEPU,EPU,Pärnu Airport,Pärnu,EE,Matched,Estonia
+EETN,TLL,Lennart Meri Tallinn Airport,Tallinn,EE,Matched,Estonia
+EETU,TAY,Tartu Airport,Tartu,EE,Matched,Estonia
+EFET,ENF,Enontekio Airport,Enontekio,FI,Matched,Finland
+EFHA,KEV,Halli Airport,Jämsä,FI,Matched,Finland
+EFHK,HEL,Helsinki Vantaa Airport,Helsinki (Vantaa),FI,Matched,Finland
+EFIT,KTQ,Kitee Airport,Kitee,FI,Matched,Finland
+EFJO,JOE,Joensuu Airport,Joensuu,FI,Matched,Finland
+EFJY,JYV,Jyväskylä Airport,Jyväskylän Maalaiskunta,FI,Matched,Finland
+EFKA,KAU,Kauhava Airfield,Kauhava,FI,Matched,Finland
+EFKI,KAJ,Kajaani Airport,Kajaani,FI,Matched,Finland
+EFKJ,KHJ,Kauhajoki Airfield,Kauhajoki,FI,Matched,Finland
+EFKK,KOK,Kokkola-Pietarsaari Airport,Kokkola / Kruunupyy,FI,Matched,Finland
+EFKS,KAO,Kuusamo Airport,Kuusamo,FI,Matched,Finland
+EFKU,KUO,Kuopio Airport,Kuopio / Siilinjärvi,FI,Matched,Finland
+EFLP,LPP,Lappeenranta Airport,Lappeenranta,FI,Matched,Finland
+EFMA,MHQ,Mariehamn Airport,Mariehamn,FI,Matched,Finland
+EFMI,MIK,Mikkeli Airport,Mikkeli,FI,Matched,Finland
+EFOU,OUL,Oulu Airport,Oulu / Oulunsalo,FI,Matched,Finland
+EFPO,POR,Pori Airport,Pori,FI,Matched,Finland
+EFPR,,Helsinki East-Redstone Aerodrome,Helsinki (Pyhtää),FI,Matched,Finland
+EFSA,SVL,Savonlinna Airport,Savonlinna,FI,Matched,Finland
+EFSI,SJY,Seinäjoki Airport,Seinäjoki / Ilmajoki,FI,Matched,Finland
+EFTP,TMP,Tampere-Pirkkala Airport,Tampere / Pirkkala,FI,Matched,Finland
+EFTU,TKU,Turku Airport,Turku,FI,Matched,Finland
+EFUT,UTI,Utti Air Base,Utti / Valkeala,FI,Matched,Finland
+EFVA,VAA,Vaasa Airport,Vaasa,FI,Matched,Finland
+EFVR,VRK,Varkaus Airport,Varkaus / Joroinen,FI,Matched,Finland
+EFYL,YLI,Ylivieska Airfield,Ylivieska,FI,Matched,Finland
+EG-0003,,Bilbeis 2 Airfield,Bilbeis,EG,Matched,Egypt
+EGAA,BFS,Belfast International Airport,Belfast,GB,Matched,United Kingdom
+EGAB,ENK,Enniskillen/St Angelo Airport,"Enniskillen, Fermanagh and Omagh",GB,Matched,United Kingdom
+EGAC,BHD,George Best Belfast City Airport,Belfast,GB,Matched,United Kingdom
+EGAE,LDY,City of Derry Airport,"Derry, Derry and Strabane",GB,Matched,United Kingdom
+EGBB,BHX,Birmingham Airport,"Birmingham, West Midlands",GB,Matched,United Kingdom
+EGBE,,Coventry Airport,"Coventry, West Midlands",GB,Matched,United Kingdom
+EGBJ,GLO,Gloucestershire Airport,"Staverton, Gloucestershire",GB,Matched,United Kingdom
+EGBN,NQT,Nottingham City Airport,"Nottingham, Nottinghamshire",GB,Matched,United Kingdom
+EGCC,MAN,Manchester Airport,"Manchester, Greater Manchester",GB,Matched,United Kingdom
+EGDC,,Royal Marines Base Chivenor,Chivenor,GB,Matched,United Kingdom
+EGDM,,MoD Boscombe Down,"Salisbury, Wiltshire",GB,Matched,United Kingdom
+EGDR,,RNAS Culdrose,Helston,GB,Matched,United Kingdom
+EGDX,,MOD St Athan,"St Athan, Vale of Glamorgan",GB,Matched,United Kingdom
+EGDY,YEO,RNAS Yeovilton,"Yeovil, Somerset",GB,Matched,United Kingdom
+EGEC,CAL,Campbeltown Airport,Campbeltown,GB,Matched,United Kingdom
+EGED,EOI,Eday Airport,Eday,GB,Matched,United Kingdom
+EGFE,HAW,Haverfordwest Airport,Haverfordwest,GB,Matched,United Kingdom
+EGFF,CWL,Cardiff International Airport,Cardiff,GB,Matched,United Kingdom
+EGFH,SWS,Swansea Airport,Swansea,GB,Matched,United Kingdom
+EGGD,BRS,Bristol Airport,Bristol,GB,Matched,United Kingdom
+EGGP,LPL,Liverpool John Lennon Airport,Liverpool,GB,Matched,United Kingdom
+EGGW,LTN,London Luton Airport,"Luton, Luton",GB,Matched,United Kingdom
+EGHH,BOH,Bournemouth Airport,Bournemouth,GB,Matched,United Kingdom
+EGHI,SOU,Southampton Airport,Southampton,GB,Matched,United Kingdom
+EGHL,,Lasham Airfield,"Alton, Hampshire",GB,Matched,United Kingdom
+EGHQ,NQY,Cornwall Airport Newquay,Newquay,GB,Matched,United Kingdom
+EGJA,ACI,Alderney Airport,Saint Anne,GG,Matched,Unknown
+EGJB,GCI,Guernsey Airport,Saint Peter Port,GG,Matched,Unknown
+EGJJ,JER,Jersey Airport,St. Peter,JE,Matched,Unknown
+EGKA,ESH,Brighton City Airport,"Brighton, East Sussex",GB,Matched,United Kingdom
+EGKB,BQH,London Biggin Hill Airport,London,GB,Matched,United Kingdom
+EGKK,LGW,London Gatwick Airport,London,GB,Matched,United Kingdom
+EGLC,LCY,London City Airport,London,GB,Matched,United Kingdom
+EGLF,FAB,Farnborough Airport,"Farnborough, Hampshire",GB,Matched,United Kingdom
+EGLK,BBS,Blackbushe Airport,"Camberley, Surrey",GB,Matched,United Kingdom
+EGLL,LHR,London Heathrow Airport,London,GB,Matched,United Kingdom
+EGMC,SEN,London Southend Airport,"Southend-on-Sea, Essex",GB,Matched,United Kingdom
+EGMD,LYX,Lydd London Ashford Airport,"Romney Marsh, Kent",GB,Matched,United Kingdom
+EGNC,CAX,Carlisle Lake District Airport,"Carlisle, Cumbria",GB,Matched,United Kingdom
+EGNH,BLK,Blackpool Airport,Blackpool,GB,Matched,United Kingdom
+EGNJ,HUY,Humberside Airport,"Grimsby, Lincolnshire",GB,Matched,United Kingdom
+EGNL,BWF,Barrow Walney Island Airport,Barrow-in-Furness,GB,Matched,United Kingdom
+EGNM,LBA,Leeds Bradford Airport,"Leeds, West Yorkshire",GB,Matched,United Kingdom
+EGNO,WRT,Warton Aerodrome,Warton,GB,Matched,United Kingdom
+EGNR,CEG,Hawarden Airport,Broughton,GB,Matched,United Kingdom
+EGNS,IOM,Isle of Man Airport,Castletown,IM,Matched,Unknown
+EGNT,NCL,Newcastle International Airport,"Newcastle upon Tyne, Tyne and Wear",GB,Matched,United Kingdom
+EGNV,MME,Teesside International Airport,"Darlington, Durham",GB,Matched,United Kingdom
+EGNX,EMA,East Midlands Airport,"Nottingham, Leicestershire",GB,Matched,United Kingdom
+EGOM,,RAF Spadeadam,Spadeadam,GB,Matched,United Kingdom
+EGOS,,RAF Shawbury,"Shrewsbury, Shropshire",GB,Matched,United Kingdom
+EGOV,VLY,Anglesey Airport,Angelsey,GB,Matched,United Kingdom
+EGPA,KOI,Kirkwall Airport,"Kirkwall, Orkney Islands",GB,Matched,United Kingdom
+EGPB,LSI,Sumburgh Airport,"Lerwick, Shetland",GB,Matched,United Kingdom
+EGPC,WIC,Wick John O'Groats Airport,Wick,GB,Matched,United Kingdom
+EGPD,ABZ,Aberdeen International Airport,Aberdeen,GB,Matched,United Kingdom
+EGPE,INV,Inverness Airport,Inverness,GB,Matched,United Kingdom
+EGPF,GLA,Glasgow Airport,Glasgow,GB,Matched,United Kingdom
+EGPH,EDI,Edinburgh Airport,"Ingliston, Edinburgh",GB,Matched,United Kingdom
+EGPI,ILY,Islay Airport,"Isle of Islay, Argyll and Bute",GB,Matched,United Kingdom
+EGPK,PIK,Glasgow Prestwick Airport,"Prestwick, South Ayrshire",GB,Matched,United Kingdom
+EGPL,BEB,Benbecula Airport,Balivanich,GB,Matched,United Kingdom
+EGPN,DND,Dundee Airport,Dundee,GB,Matched,United Kingdom
+EGPO,SYY,Stornoway Airport,"Stornoway, Western Isles",GB,Matched,United Kingdom
+EGPU,TRE,Tiree Airport,"Balemartine, Argyll and Bute",GB,Matched,United Kingdom
+EGQL,ADX,Leuchars Station Airfield,"Leuchars, Fife",GB,Matched,United Kingdom
+EGQS,LMO,RAF Lossiemouth,"Lossiemouth, Moray",GB,Matched,United Kingdom
+EGSC,CBG,Cambridge City Airport,"Cambridge, Cambridgeshire",GB,Matched,United Kingdom
+EGSH,NWI,Norwich Airport,"Norwich, Norfolk",GB,Matched,United Kingdom
+EGSS,STN,London Stansted Airport,"London, Essex",GB,Matched,United Kingdom
+EGTC,,Cranfield Airport,"Cranfield, Central Bedfordshire",GB,Matched,United Kingdom
+EGTE,EXT,Exeter International Airport,"Exeter, Devon",GB,Matched,United Kingdom
+EGTK,OXF,London Oxford Airport,"Kidlington, Oxfordshire",GB,Matched,United Kingdom
+EGUB,BEX,RAF Benson,"Wallingford, Oxfordshire",GB,Matched,United Kingdom
+EGUL,LKZ,RAF Lakenheath,"Brandon, Suffolk",GB,Matched,United Kingdom
+EGUN,MHZ,RAF Mildenhall,"Bury Saint Edmunds, Suffolk",GB,Matched,United Kingdom
+EGUW,,Wattisham Airfield,"Ipswich, Suffolk",GB,Matched,United Kingdom
+EGVA,FFD,RAF Fairford,"Fairford, Gloucestershire",GB,Matched,United Kingdom
+EGVN,BZZ,RAF Brize Norton,"Carterton, Oxfordshire",GB,Matched,United Kingdom
+EGVO,ODH,RAF Odiham,"Hook, Hampshire",GB,Matched,United Kingdom
+EGWC,,RAF Cosford,"Cosford, Shropshire",GB,Matched,United Kingdom
+EGWU,NHT,RAF Northolt,"Northolt, Greater London",GB,Matched,United Kingdom
+EGXC,QCY,RAF Coningsby,"Lincoln, Lincolnshire",GB,Matched,United Kingdom
+EGXE,,RAF Leeming,"Northallerton, North Yorkshire",GB,Matched,United Kingdom
+EGXG,,Leeds East Airport,"Tadcaster, North Yorkshire",GB,Matched,United Kingdom
+EGXH,BEQ,RAF Honington,"Bury Saint Edmunds, Suffolk",GB,Matched,United Kingdom
+EGXP,,,,,Unmatched,Unknown
+EGXT,,RAF Wittering,"Peterborough, Cambridgeshire",GB,Matched,United Kingdom
+EGXW,WTN,RAF Waddington,"Lincoln, Lincolnshire",GB,Matched,United Kingdom
+EGXZ,,RAF Topcliffe,"Thirsk, North Yorkshire",GB,Matched,United Kingdom
+EGYD,,RAF Cranwell,"Sleaford, Lincolnshire",GB,Matched,United Kingdom
+EGYE,,RAF Barkston Heath,"Grantham, Lincolnshire",GB,Matched,United Kingdom
+EGYM,KNF,RAF Marham,"King's Lynn, Norfolk",GB,Matched,United Kingdom
+EHAM,AMS,Amsterdam Airport Schiphol,Amsterdam,NL,Matched,Netherlands
+EHBD,,Kempen Airport Budel,Weert,NL,Matched,Netherlands
+EHBK,MST,Maastricht Aachen Airport,Maastricht,NL,Matched,Netherlands
+EHDL,,Deelen Air Base,Arnhem,NL,Matched,Netherlands
+EHEH,EIN,Eindhoven Airport,Eindhoven,NL,Matched,Netherlands
+EHGG,GRQ,Groningen Airport Eelde,Groningen,NL,Matched,Netherlands
+EHGR,GLZ,Gilze Rijen Air Base,Rijen,NL,Matched,Netherlands
+EHKD,DHR,De Kooy Airfield / Den Helder Naval Air Station,Den Helder,NL,Matched,Netherlands
+EHLE,LEY,Lelystad Airport,Lelystad,NL,Matched,Netherlands
+EHLW,LWR,Leeuwarden Air Base,Leeuwarden,NL,Matched,Netherlands
+EHRD,RTM,Rotterdam The Hague Airport,Rotterdam,NL,Matched,Netherlands
+EHTW,ENS,Twente Airport,Enschede,NL,Matched,Netherlands
+EHVK,UDE,Volkel Air Base,Uden,NL,Matched,Netherlands
+EHWO,WOE,Woensdrecht Air Base,Hoogerheide,NL,Matched,Netherlands
+EICK,ORK,Cork International Airport,Cork,IE,Matched,Ireland
+EICM,,Galway Airport,Galway,IE,Matched,Ireland
+EIDL,CFN,Donegal Airport,Donegal,IE,Matched,Ireland
+EIDW,DUB,Dublin Airport,Dublin,IE,Matched,Ireland
+EIKN,NOC,Ireland West Airport Knock,Charlestown,IE,Matched,Ireland
+EIKY,KIR,Kerry Airport,Farranfore,IE,Matched,Ireland
+EIME,,Casement Air Base,Baldonnel,IE,Matched,Ireland
+EINN,SNN,Shannon Airport,Shannon,IE,Matched,Ireland
+EISG,SXL,Sligo Airport,Sligo,IE,Matched,Ireland
+EIWF,WAT,Waterford Airport,Waterford,IE,Matched,Ireland
+EIWT,,Weston Airport,Leixlip,IE,Matched,Ireland
+EKAH,AAR,Aarhus Airport,Aarhus,DK,Matched,Denmark
+EKBI,BLL,Billund Airport,Billund,DK,Matched,Denmark
+EKCH,CPH,Copenhagen Kastrup Airport,Copenhagen,DK,Matched,Denmark
+EKEB,EBJ,Esbjerg Airport,Esbjerg,DK,Matched,Denmark
+EKKA,KRP,Midtjyllands Airport / Air Base Karup,Karup,DK,Matched,Denmark
+EKMB,MRW,Lolland Falster Maribo Airport,Rødby,DK,Matched,Denmark
+EKOD,ODE,Odense Hans Christian Andersen Airport,Odense,DK,Matched,Denmark
+EKRK,RKE,Copenhagen Roskilde Airport,Roskilde,DK,Matched,Denmark
+EKRN,RNN,Bornholm Airport,Rønne,DK,Matched,Denmark
+EKSB,SGD,Sønderborg Airport,Sønderborg,DK,Matched,Denmark
+EKSN,CNL,Sindal Airport,Sindal,DK,Matched,Denmark
+EKSP,SKS,Skrydstrup Air Base,Vojens,DK,Matched,Denmark
+EKSV,SQW,Skive Airport,Skive,DK,Matched,Denmark
+EKTS,TED,Thisted Airport,Thisted,DK,Matched,Denmark
+EKVD,,Kolding Vamdrup Airfield,Kolding / Vamdrup,DK,Matched,Denmark
+EKVJ,STA,Stauning Vestjylland  Airport,Skjern,DK,Matched,Denmark
+EKYT,AAL,Aalborg Airport,Aalborg,DK,Matched,Denmark
+ELLX,LUX,Luxembourg-Findel International Airport,Luxembourg,LU,Matched,Luxembourg
+ENAL,AES,Ålesund Airport,Ålesund,NO,Matched,Norway
+ENBN,BNN,"Brønnøysund Airport, Brønnøy",Brønnøy,NO,Matched,Norway
+ENBO,BOO,Bodø Airport,Bodø,NO,Matched,Norway
+ENBR,BGO,"Bergen Airport, Flesland",Bergen,NO,Matched,Norway
+ENCN,KRS,Kristiansand Airport,Kristiansand(Kjevik),NO,Matched,Norway
+ENDU,BDU,Bardufoss Airport,Målselv,NO,Matched,Norway
+ENEV,EVE,Harstad/Narvik Airport,Evenes,NO,Matched,Norway
+ENFG,,"Fagernes Airport, Leirin",Fagernes,NO,Matched,Norway
+ENFL,FRO,Florø Airport,Florø,NO,Matched,Norway
+ENGM,OSL,Oslo-Gardermoen International Airport,Oslo (Gardermoen),NO,Matched,Norway
+ENHD,HAU,"Haugesund Airport, Karmøy",Karmøy,NO,Matched,Norway
+ENLK,LKN,Leknes Airport,Leknes,NO,Matched,Norway
+ENMS,MJF,"Mosjøen Airport, Kjærstad",Mosjøen,NO,Matched,Norway
+ENNO,NTB,Notodden Airport,Notodden,NO,Matched,Norway
+ENOL,OLA,Ørland Airport,Ørland,NO,Matched,Norway
+ENRA,MQN,"Mo i Rana Airport, Røssvoll",Mo i Rana,NO,Matched,Norway
+ENRM,RVK,"Rørvik Airport, Ryum",Rørvik,NO,Matched,Norway
+ENRO,RRS,Røros Airport,Røros,NO,Matched,Norway
+ENRY,,"Moss Airport, Rygge",Oslo,NO,Matched,Norway
+ENSH,SVJ,"Svolvær Airport, Helle",Svolvær,NO,Matched,Norway
+ENSK,SKN,"Stokmarknes Airport, Skagen",Hadsel,NO,Matched,Norway
+ENSN,,Skien Airport,Geiteryggen,NO,Matched,Norway
+ENSO,SRP,"Stord Airport, Sørstokken",Leirvik,NO,Matched,Norway
+ENST,SSJ,"Sandnessjøen Airport, Stokka",Alstahaug,NO,Matched,Norway
+ENTO,TRF,"Sandefjord Airport, Torp",Sandefjord(Torp),NO,Matched,Norway
+ENVA,TRD,"Trondheim Airport, Værnes",Trondheim,NO,Matched,Norway
+ENZV,SVG,"Stavanger Airport, Sola",Stavanger,NO,Matched,Norway
+EPBY,BZG,Ignacy Jan Paderewski Bydgoszcz Airport,Bydgoszcz,PL,Matched,Poland
+EPCE,,Cewice Naval Air Base,Siemirowice,PL,Matched,Poland
+EPDE,,Deblin Military Air Base,Dęblin,PL,Matched,Poland
+EPGD,GDN,Gdańsk Lech Wałęsa Airport,Gdańsk,PL,Matched,Poland
+EPIR,,Inowroclaw Military Air Base,,PL,Matched,Poland
+EPKK,KRK,Kraków John Paul II International Airport,Balice,PL,Matched,Poland
+EPKS,,Krzesiny Military Air Base,Poznań,PL,Matched,Poland
+EPKT,KTW,Katowice Wojciech Korfanty International Airport,Katowice,PL,Matched,Poland
+EPLB,LUZ,Lublin Airport,Lublin,PL,Matched,Poland
+EPLK,,Łask Air Base,Łask,PL,Matched,Poland
+EPLL,LCJ,Łódź Władysław Reymont Airport,Łódź,PL,Matched,Poland
+EPLY,,Leźnica Wielka Air Base,Leźnica Wielka,PL,Matched,Poland
+EPMB,,Malbork Królewo Air Base,Królewo,PL,Matched,Poland
+EPMI,,Miroslawiec Military Air Base,Mirosławiec,PL,Matched,Poland
+EPMM,,Minsk Mazowiecki Military Air Base,,PL,Matched,Poland
+EPMO,WMI,Warsaw Modlin Airport,Nowy Dwór Mazowiecki,PL,Matched,Poland
+EPOK,,Oksywie Air Base / Gdynia-Kosakowo Airfield,Kosakowo,PL,Matched,Poland
+EPPO,POZ,Poznań-Ławica Airport,Poznań,PL,Matched,Poland
+EPPW,,Powidz Military Air Base,Powidz,PL,Matched,Poland
+EPRA,RDO,Warsaw Radom Airport,Radom,PL,Matched,Poland
+EPRZ,RZE,Rzeszów-Jasionka Airport,Jasionka,PL,Matched,Poland
+EPSC,SZZ,Solidarity Szczecin–Goleniów Airport,Szczecin(Glewice),PL,Matched,Poland
+EPSN,,Swidwin Military Air Base,,PL,Matched,Poland
+EPSY,SZY,Olsztyn-Mazury Airport,Szymany,PL,Matched,Poland
+EPTM,,Tomaszów Mazowiecki Military Air Base,Nowy Glinnik,PL,Matched,Poland
+EPWA,WAW,Warsaw Chopin Airport,Warsaw,PL,Matched,Poland
+EPWR,WRO,Copernicus Wrocław Airport,Wrocław,PL,Matched,Poland
+EPZG,IEG,Zielona Góra-Babimost Airport,Nowe Kramsko,PL,Matched,Poland
+ES-0109,,Folgueroles Airfield,Folgueroles,ES,Matched,Spain
+ESCF,,Malmen Air Base,Linköping,SE,Matched,Sweden
+ESDF,RNB,Ronneby Airport,Ronneby,SE,Matched,Sweden
+ESFR,,Råda Air Base,Råda,SE,Matched,Sweden
+ESGG,GOT,Göteborg Landvetter Airport,Göteborg,SE,Matched,Sweden
+ESGJ,JKG,Jönköping Airport,Jönköping,SE,Matched,Sweden
+ESGP,GSE,Säve Airport,Göteborg,SE,Matched,Sweden
+ESGR,KVB,Skövde Airport,Skövde,SE,Matched,Sweden
+ESGT,THN,Trollhättan-Vänersborg Airport,Trollhättan,SE,Matched,Sweden
+ESIB,,Såtenäs Air Base,Såtenäs,SE,Matched,Sweden
+ESKK,KSK,Karlskoga Airport,Karlskoga,SE,Matched,Sweden
+ESKM,MXX,Mora Airport,Mora,SE,Matched,Sweden
+ESKN,NYO,Stockholm Skavsta Airport,Nyköping,SE,Matched,Sweden
+ESKS,SCR,Scandinavian Mountains Airport,Malung-Sälen,SE,Matched,Sweden
+ESMK,KID,Kristianstad Airport,Kristianstad,SE,Matched,Sweden
+ESMQ,KLR,Kalmar Airport,Kalmar,SE,Matched,Sweden
+ESMS,MMX,Malmö Sturup Airport,Malmö,SE,Matched,Sweden
+ESMT,HAD,Halmstad Airport,Halmstad,SE,Matched,Sweden
+ESMX,VXO,Växjö Kronoberg Airport,Växjö,SE,Matched,Sweden
+ESNK,KRF,Kramfors-Sollefteå Höga Kusten Airport,Nyland,SE,Matched,Sweden
+ESNL,LYC,Lycksele Airport,Lycksele,SE,Matched,Sweden
+ESNN,SDL,Sundsvall-Härnösand Airport,Sundsvall/ Härnösand,SE,Matched,Sweden
+ESNO,OER,Örnsköldsvik Airport,Örnsköldsvik,SE,Matched,Sweden
+ESNS,SFT,Skellefteå Airport,Skellefteå,SE,Matched,Sweden
+ESNU,UME,Umeå Airport,Umeå,SE,Matched,Sweden
+ESNV,VHM,Vilhelmina South Lapland Airport,Vilhelmina,SE,Matched,Sweden
+ESNX,AJR,Arvidsjaur Airport,Arvidsjaur,SE,Matched,Sweden
+ESNY,SOO,Söderhamn Airport,Söderhamn,SE,Matched,Sweden
+ESNZ,OSD,Åre Östersund Airport,Östersund,SE,Matched,Sweden
+ESOE,ORB,Örebro Airport,Örebro,SE,Matched,Sweden
+ESOK,KSD,Karlstad Airport,Karlstad,SE,Matched,Sweden
+ESOW,VST,Stockholm Västerås Airport,Stockholm / Västerås,SE,Matched,Sweden
+ESPA,LLA,Luleå Airport,Luleå,SE,Matched,Sweden
+ESSA,ARN,Stockholm-Arlanda Airport,Stockholm,SE,Matched,Sweden
+ESSB,BMA,Stockholm-Bromma Airport,Stockholm,SE,Matched,Sweden
+ESSD,BLE,Dala Airport,Borlange,SE,Matched,Sweden
+ESSK,,Gävle Sandviken Airport,Gävle / Sandviken,SE,Matched,Sweden
+ESSL,LPI,Linköping City Airport,Linköping,SE,Matched,Sweden
+ESSP,NRK,Norrköping Airport,Norrköping,SE,Matched,Sweden
+ESST,TYF,Torsby Airport,Torsby,SE,Matched,Sweden
+ESSU,EKT,Eskilstuna Airport,Eskilstuna,SE,Matched,Sweden
+ESSV,VBY,Visby Airport,Visby,SE,Matched,Sweden
+ESTA,AGH,Ängelholm-Helsingborg Airport,Ängelholm,SE,Matched,Sweden
+ESTL,,Ljungbyhed Airfield,Ljungbyhed,SE,Matched,Sweden
+ESUD,SQO,Storuman Airport,Storuman,SE,Matched,Sweden
+ETAD,SPM,Spangdahlem Air Base,Trier,DE,Matched,Germany
+ETAR,RMS,Ramstein Air Base,Ramstein-Miesenbach,DE,Matched,Germany
+ETHB,,Bückeburg Air Base,Bückeburg,DE,Matched,Germany
+ETHC,,Celle Army Airfield,Celle,DE,Matched,Germany
+ETHF,FRZ,Fritzlar Army Airfield,Fritzlar,DE,Matched,Germany
+ETHL,,Laupheim Air Base,Laupheim,DE,Matched,Germany
+ETHN,,Niederstetten Army Air Base,Niederstetten,DE,Matched,Germany
+ETHS,,Faßberg Air Base,Faßberg,DE,Matched,Germany
+ETIC,,Grafenwöhr Army Air Field,Grafenwöhr,DE,Matched,Germany
+ETIH,,Hohenfels Army Airfield,Hohenfels,DE,Matched,Germany
+ETMN,FCN,Sea-Airport Cuxhaven/Nordholz / Nordholz Naval Airbase,Wurster Nordseeküste,DE,Matched,Germany
+ETND,,Diepholz Air Base,Diepholz,DE,Matched,Germany
+ETNG,GKE,Geilenkirchen Air Base,Geilenkirchen,DE,Matched,Germany
+ETNH,,Hohn Air Base,Hohn,DE,Matched,Germany
+ETNL,RLG,Rostock-Laage Airport,Laage,DE,Matched,Germany
+ETNN,,Nörvenich Air Base,Nörvenich,DE,Matched,Germany
+ETNS,WBG,Schleswig Air Base,Jagel,DE,Matched,Germany
+ETNT,,Wittmundhafen Air Base,Wittmund,DE,Matched,Germany
+ETNW,,Wunstorf Air Base,,DE,Matched,Germany
+ETOU,WIE,Wiesbaden Army Airfield,Wiesbaden,DE,Matched,Germany
+ETSB,,Büchel Air Base,Alflen,DE,Matched,Germany
+ETSH,,Holzdorf Air Base,Holzdorf,DE,Matched,Germany
+ETSI,IGS,Ingolstadt Manching Airport,Manching,DE,Matched,Germany
+ETSL,,Lechfeld Air Base,Graben,DE,Matched,Germany
+ETSN,,Neuburg Air Base,Neuburg an der Donau,DE,Matched,Germany
+EVDA,,,,,Unmatched,Unknown
+EVKA,,Jēkabpils Air Base,Jēkabpils,LV,Matched,Latvia
+EVLA,LPX,Liepāja International Airport,Liepāja,LV,Matched,Latvia
+EVRA,RIX,Riga International Airport,Riga,LV,Matched,Latvia
+EVTA,,Jūrmala Airport,Tukums,LV,Matched,Latvia
+EYKA,KUN,Kaunas International Airport,Kaunas,LT,Matched,Lithuania
+EYKD,,Kėdainiai Air Base,Kėdainiai,LT,Matched,Lithuania
+EYPA,PLQ,Palanga International Airport,Palanga,LT,Matched,Lithuania
+EYPP,PNV,Panevėžys Air Base,Panevėžys,LT,Matched,Lithuania
+EYSA,SQQ,Šiauliai International Airport,Šiauliai,LT,Matched,Lithuania
+EYSB,,Barysiai Airfield,Šiauliai,LT,Matched,Lithuania
+EYVI,VNO,Vilnius International Airport,Vilnius,LT,Matched,Lithuania
+GCFV,FUE,Fuerteventura Airport,El Matorral,ES,Matched,Spain
+GCHI,VDE,El Hierro Airport,El Hierro Island,ES,Matched,Spain
+GCLA,SPC,La Palma Airport,"Sta Cruz de la Palma, La Palma Island",ES,Matched,Spain
+GCLP,LPA,Gran Canaria Airport,Gran Canaria Island,ES,Matched,Spain
+GCRR,ACE,César Manrique-Lanzarote Airport,San Bartolomé,ES,Matched,Spain
+GCTS,TFS,Tenerife Sur Airport,Tenerife,ES,Matched,Spain
+GCXO,TFN,Tenerife Norte-Ciudad de La Laguna Airport,Tenerife,ES,Matched,Spain
+GE-0007,,Ozurgeti Air Base,Ozurgeti,GE,Matched,Georgia
+GE-0010,,Senaki Air Base,Senaki,GE,Matched,Georgia
+GEML,MLN,Melilla Airport,Melilla,ES,Matched,Spain
+GMFM,MEK,Bassatine Airport,Meknes,MA,Matched,Morocco
+GMFO,OUD,Oujda Angads Airport,Ahl Angad,MA,Matched,Morocco
+GMME,RBA,Rabat-Salé Airport,Rabat,MA,Matched,Morocco
+GMMN,CMN,Mohammed V International Airport,Casablanca,MA,Matched,Morocco
+GMMW,NDR,Nador Al Aaroui International Airport,Al Aaroui,MA,Matched,Morocco
+GMMX,RAK,Marrakesh Menara Airport,Marrakesh,MA,Matched,Morocco
+GMMY,NNA,Kenitra Air Base,Kenitra,MA,Matched,Morocco
+GMTA,AHU,Cherif Al Idrissi Airport,Al Hoceima,MA,Matched,Morocco
+GMTN,TTU,Sania Ramel Airport,Tétouan,MA,Matched,Morocco
+GMTT,TNG,Tangier Ibn Battuta Airport,Tangier,MA,Matched,Morocco
+HE16,,Birma Air Base,Tanta,EG,Matched,Egypt
+HE28,,Gebel El Basur Air Base,Markaz Ad Delingat,EG,Matched,Egypt
+HE32,,Al Mansurah Airbase,Mansoura,EG,Matched,Egypt
+HE36,RDL,Bardawil International Airport,El Hassana,EG,Matched,Egypt
+HE37,,Bilbeis Air Base,Bilbeis,EG,Matched,Egypt
+HE42,,Quesna Airport,Quesna,EG,Matched,Egypt
+HEAL,DBB,El Alamein International Airport,El Alamein,EG,Matched,Egypt
+HEAR,AAC,El Arish International Airport,El Arish,EG,Matched,Egypt
+HEAT,ATZ,Asyut International Airport,Asyut,EG,Matched,Egypt
+HEAZ,,Almaza Air Force Base,El Nozha,EG,Matched,Egypt
+HEBA,HBE,Alexandria International Airport,Alexandria,EG,Matched,Egypt
+HEBS,,Bani Sweif Air Base,Bani Sweif,EG,Matched,Egypt
+HECA,CAI,Cairo International Airport,Cairo,EG,Matched,Egypt
+HECP,CCE,Capital International Airport,New Cairo,EG,Matched,Egypt
+HECW,,Cairo West Air Base,Cairo,EG,Matched,Egypt
+HEGN,HRG,Hurghada International Airport,Hurghada,EG,Matched,Egypt
+HEGR,EGH,El Jora Airport,El Jora,EG,Matched,Egypt
+HEGS,,Jiyanklis Air Base,Abu El Matamir,EG,Matched,Egypt
+HEIS,,Al Ismailiyya Air Base,Al Ismailiyya,EG,Matched,Egypt
+HEMM,MUH,Mersa Matruh International Airport,Marsa Matruh,EG,Matched,Egypt
+HEPS,PSD,Port Said International Airport,Port Said,EG,Matched,Egypt
+HESC,SKV,Saint Catherine International Airport,Saint Catherine,EG,Matched,Egypt
+HESH,SSH,Sharm El Sheikh International Airport,Sharm El Sheikh,EG,Matched,Egypt
+HESX,SPX,Sphinx International Airport,Al Jiza,EG,Matched,Egypt
+HETB,TCP,Taba International Airport,Taba,EG,Matched,Egypt
+HL77,,Okba Ibn Nafa Air Base,,LY,Matched,Unknown
+HLGD,SRX,Sirt International Airport / Ghardabiya Airbase,Sirt,LY,Matched,Unknown
+HLLB,BEN,Benina International Airport,Benina,LY,Matched,Unknown
+HLLM,MJI,Mitiga International Airport,Tripoli,LY,Matched,Unknown
+HU-0002,,Kalocsa-Foktő Airfield,Kalocsa,HU,Matched,Hungary
+IQ-0017,,H2 Air Base,,IQ,Matched,Unknown
+IQ-0024,,Jalibah Southeast Air Base,Jalibah,IQ,Matched,Unknown
+IQ-0030,,Kut Al Hayy East Air Base,,IQ,Matched,Unknown
+IQ-0034,,Qalat Salih Air Base,,IQ,Matched,Unknown
+IQ-0039,,Rasheed Air Base,Baghdad,IQ,Matched,Unknown
+IQ-0040,,Ruwayshid Air Base,,IQ,Matched,Unknown
+IQ-0042,,Sahl Sinjar Air Base,,IQ,Matched,Unknown
+JO-0002,,King Feisal Air Base,Al-Jafr,JO,Matched,Unknown
+LAKV,,Kuçovë Air Base,Kuçovë,AL,Matched,Albania
+LATI,TIA,Tirana International Airport Mother Teresa,Rinas,AL,Matched,Albania
+LBBG,BOJ,Burgas Airport,Burgas,BG,Matched,Bulgaria
+LBGO,GOZ,Gorna Oryahovitsa Airport,Gorna Oryahovitsa,BG,Matched,Bulgaria
+LBPD,PDV,Plovdiv International Airport,Plovdiv,BG,Matched,Bulgaria
+LBPG,,Graf Ignatievo Air Base,Graf Ignatievo,BG,Matched,Bulgaria
+LBPL,,Dolna Mitropoliya Air Base,Dolna Mitropoliya,BG,Matched,Bulgaria
+LBSF,SOF,Sofia Airport,Sofia,BG,Matched,Bulgaria
+LBWB,,Balchik Airfield,Balchik,BG,Matched,Bulgaria
+LBWN,VAR,Varna Airport,Varna,BG,Matched,Bulgaria
+LCEN,ECN,Ercan International Airport,Tymbou (Kirklar),CY,Matched,Cyprus
+LCLK,LCA,Larnaca International Airport,Larnaca,CY,Matched,Cyprus
+LCPH,PFO,Paphos International Airport,Paphos,CY,Matched,Cyprus
+LCRA,AKT,RAF Akrotiri,Akrotiri,CY,Matched,Cyprus
+LDDU,DBV,Dubrovnik Ruđer Bošković Airport,Dubrovnik,HR,Matched,Croatia
+LDOS,OSI,Osijek Airport,Osijek(Klisa),HR,Matched,Croatia
+LDPL,PUY,Pula Airport,Pula,HR,Matched,Croatia
+LDRI,RJK,Rijeka Airport,Rijeka(Omišalj),HR,Matched,Croatia
+LDSB,BWK,Brač Airport,Gornji Humac,HR,Matched,Croatia
+LDSP,SPU,Split Saint Jerome Airport,Split,HR,Matched,Croatia
+LDZA,ZAG,Zagreb Franjo Tuđman International Airport,Velika Gorica,HR,Matched,Croatia
+LDZD,ZAD,Zadar Airport,Zadar,HR,Matched,Croatia
+LEAB,ABC,Albacete Airport / Los Llanos Air Base,Albacete,ES,Matched,Spain
+LEAL,ALC,Alicante-Elche Miguel Hernández Airport,Alicante,ES,Matched,Spain
+LEAM,LEI,Almería Airport,Almería,ES,Matched,Spain
+LEAS,OVD,Asturias Airport,Ranón,ES,Matched,Spain
+LEBA,ODB,Córdoba Airport,Córdoba,ES,Matched,Spain
+LEBB,BIO,Bilbao Airport,Bilbao,ES,Matched,Spain
+LEBG,RGS,Burgos Airport,Burgos,ES,Matched,Spain
+LEBL,BCN,Josep Tarradellas Barcelona-El Prat Airport,Barcelona,ES,Matched,Spain
+LEBZ,BJZ,Badajoz Airport,Badajoz,ES,Matched,Spain
+LECH,CDT,Castellón-Costa Azahar Airport,Castellón de la Plana,ES,Matched,Spain
+LECO,LCG,A Coruña Airport,Culleredo,ES,Matched,Spain
+LECU,,Madrid-Cuatro Vientos Airport,Madrid,ES,Matched,Spain
+LEDA,ILD,Lleida-Alguaire Airport,Lleida,ES,Matched,Spain
+LEGA,,Armilla Air Base,Armilla,ES,Matched,Spain
+LEGE,GRO,Girona-Costa Brava Airport,Girona,ES,Matched,Spain
+LEGR,GRX,F.G.L. Airport Granada-Jaén Airport,Granada,ES,Matched,Spain
+LEGT,,Getafe Air Base,Getafe,ES,Matched,Spain
+LEIB,IBZ,Ibiza Airport,Ibiza (Eivissa),ES,Matched,Spain
+LEJR,XRY,Jerez Airport,Jerez de la Frontera,ES,Matched,Spain
+LELC,,San Javier Airport,San Javier,ES,Matched,Spain
+LELN,LEN,León Airport,La Virgen del Camino,ES,Matched,Spain
+LELO,RJL,Logroño-Agoncillo Airport,Logroño,ES,Matched,Spain
+LEMD,MAD,Adolfo Suárez Madrid–Barajas Airport,Madrid,ES,Matched,Spain
+LEMG,AGP,Málaga-Costa del Sol Airport,Málaga,ES,Matched,Spain
+LEMH,MAH,Menorca Airport,Mahón (Maó),ES,Matched,Spain
+LEMI,RMU,Region of Murcia International Airport,Corvera,ES,Matched,Spain
+LEMO,OZP,Moron Air Base,Morón,ES,Matched,Spain
+LEPA,PMI,Palma de Mallorca Airport,Palma de Mallorca,ES,Matched,Spain
+LEPP,PNA,Pamplona Airport,Pamplona,ES,Matched,Spain
+LERI,,Alcantarilla Air Base,Alcantarilla,ES,Matched,Spain
+LERS,REU,Reus Airport,Reus,ES,Matched,Spain
+LERT,ROZ,Rota Naval Station Airport,Rota,ES,Matched,Spain
+LESA,SLM,Salamanca Airport,Salamanca,ES,Matched,Spain
+LESO,EAS,San Sebastián Airport,Hondarribia,ES,Matched,Spain
+LEST,SCQ,Santiago-Rosalía de Castro Airport,Santiago de Compostela,ES,Matched,Spain
+LETL,TEV,Teruel Airport,Teruel,ES,Matched,Spain
+LETO,TOJ,Madrid–Torrejón Airport / Torrejón Air Base,Madrid,ES,Matched,Spain
+LEVC,VLC,Valencia Airport,Valencia,ES,Matched,Spain
+LEVD,VLL,Valladolid Airport,Valladolid,ES,Matched,Spain
+LEVT,VIT,Vitoria Airport,Alava,ES,Matched,Spain
+LEVX,VGO,Vigo Airport,Vigo,ES,Matched,Spain
+LEXJ,SDR,Seve Ballesteros-Santander Airport,Santander,ES,Matched,Spain
+LEZG,ZAZ,Zaragoza Airport,Zaragoza,ES,Matched,Spain
+LEZL,SVQ,Seville Airport,Seville,ES,Matched,Spain
+LFAC,CQF,Calais Marck Airport,Calais,FR,Matched,France
+LFAG,,Péronne Saint-Quentin Airfield,"Monchy-Lagache, Somme",FR,Matched,France
+LFAT,LTQ,Le Touquet-Côte d'Opale Airport,Le Touquet-Paris-Plage,FR,Matched,France
+LFAV,,Valenciennes-Denain Airfield,Prouvy,FR,Matched,France
+LFAY,,Amiens Glisy Airfield,Amiens,FR,Matched,France
+LFBA,AGF,Agen La Garenne airport,Agen,FR,Matched,France
+LFBC,,Cazaux (BA 120) Air Base,Cazaux (La Teste-de-Buch),FR,Matched,France
+LFBD,BOD,Bordeaux–Mérignac Airport,Bordeaux,FR,Matched,France
+LFBE,EGC,Bergerac Dordogne-Périgord airport,Bergerac,FR,Matched,France
+LFBF,,Toulouse-Francazal (BA 101) Air Base,"Toulouse/Francazal, Haute-Garonne",FR,Matched,France
+LFBG,CNG,Cognac-Châteaubernard (BA 709) Air Base,Cognac/Châteaubernard,FR,Matched,France
+LFBH,LRH,La Rochelle Île de Ré Airport,La Rochelle,FR,Matched,France
+LFBI,PIS,Poitiers-Biard Airport,Poitiers/Biard,FR,Matched,France
+LFBK,MCU,Montluçon-Guéret Airport,"Lépaud, Creuse",FR,Matched,France
+LFBL,LIG,Limoges Airport,Limoges/Bellegarde,FR,Matched,France
+LFBM,,Mont-de-Marsan (BA 118) Air Base,Mont-de-Marsan,FR,Matched,France
+LFBN,NIT,Niort - Marais Poitevin Airport,Niort/Souché,FR,Matched,France
+LFBO,TLS,Toulouse-Blagnac Airport,Toulouse/Blagnac,FR,Matched,France
+LFBP,PUF,Pau Pyrénées Airport,Pau/Pyrénées (Uzein),FR,Matched,France
+LFBT,LDE,Tarbes-Lourdes-Pyrénées Airport,Tarbes/Lourdes/Pyrénées,FR,Matched,France
+LFBU,ANG,Angoulême Brie-Champniers airport,Angoulême,FR,Matched,France
+LFBX,PGX,Périgueux-Bassillac Airport,Périgueux/Bassillac,FR,Matched,France
+LFBZ,BIQ,Biarritz Pays Basque airport,Biarritz,FR,Matched,France
+LFCC,ZAO,Cahors Lalbenque airport,Cahors,FR,Matched,France
+LFCG,,Aérodrome de Saint-Girons - Antichan,Saint-Girons/Antichan,FR,Matched,France
+LFCH,,Aérodrome d'Arcachon-La Teste-de-Buch,Arcachon/La Teste-de-Buch,FR,Matched,France
+LFCI,LBI,Albi Le Sequestre airport,Albi,FR,Matched,France
+LFCK,DCM,Castres Mazamet Airport,Castres,FR,Matched,France
+LFCR,RDZ,Rodez–Aveyron Airport,Rodez/Marcillac,FR,Matched,France
+LFCY,RYN,Royan-Médis Airport,Royan/Médis,FR,Matched,France
+LFDH,,Auch Gers Airfield,Auch,FR,Matched,France
+LFDN,RCO,Rochefort-Saint-Agnant (BA 721) Airport,Rochefort/Saint-Agnant,FR,Matched,France
+LFGA,CMR,Colmar Houssen airport,Colmar,FR,Matched,France
+LFGJ,DLE,Dole Tavaux Airport,Dole,FR,Matched,France
+LFGW,,Verdun-Le Rozelier Airfield,"Sommedieue, Meuse",FR,Matched,France
+LFHO,OBS,Aubenas-South Ardèche Airport,"Lanas, Ardèche",FR,Matched,France
+LFHP,LPY,Le Puy-Loudes Airfield,"Chaspuzac, Haute-Loire",FR,Matched,France
+LFJL,ETZ,Metz-Nancy-Lorraine Airport,Goin,FR,Matched,France
+LFJR,ANE,Angers Marcé airport,Angers,FR,Matched,France
+LFKB,BIA,Bastia-Poretta International airport,Bastia,FR,Matched,France
+LFKC,CLY,Calvi Sainte Catherine Airport,Calvi,FR,Matched,France
+LFKF,FSC,Figari Sud-Corse Airport,Figari,FR,Matched,France
+LFKJ,AJA,Ajaccio Napoléon Bonaparte airport,Ajaccio,FR,Matched,France
+LFKS,SOZ,Solenzara (BA 126) Air Base,Solenzara,FR,Matched,France
+LFLA,AUF,Auxerre Branches airport,Auxerre,FR,Matched,France
+LFLB,CMF,Chambéry Aix les Bains airport,Chambéry,FR,Matched,France
+LFLC,CFE,Clermont-Ferrand Auvergne airport,Clermont-Ferrand,FR,Matched,France
+LFLD,BOU,Bourges airport,Bourges,FR,Matched,France
+LFLH,,Chalon Champforgeuil Airfield,Châlon sur Saône,FR,Matched,France
+LFLI,,Annemasse Airfield,Annemasse,FR,Matched,France
+LFLL,LYS,Lyon Saint-Exupéry Airport,"Colombier-Saugnieu, Rhône",FR,Matched,France
+LFLM,,Mâcon-Charnay Airfield,"Charnay-lès-Mâcon, Saône-et-Loire",FR,Matched,France
+LFLN,SYT,Saint-Yan Airport,"L'Hôpital-le-Mercier, Saône-et-Loire",FR,Matched,France
+LFLO,RNE,Roanne-Renaison Airport,Saint-Léger-sur-Roanne,FR,Matched,France
+LFLP,NCY,Annecy Meythet airport,Annecy,FR,Matched,France
+LFLS,GNB,Grenoble Alpes Isère Airport,Grenoble,FR,Matched,France
+LFLU,VAF,Valence-Chabeuil Airport,"Chabeuil, Drôme",FR,Matched,France
+LFLV,VHY,Vichy-Charmeil Airport,"Charmeil, Allier",FR,Matched,France
+LFLW,AUR,Aurillac airport,Aurillac,FR,Matched,France
+LFLX,CHR,Châteauroux Déols airport,Châteauroux,FR,Matched,France
+LFLY,LYN,Lyon Bron Airport,"Chassieu, Lyon",FR,Matched,France
+LFMC,,Le Luc-Le Cannet Airfield,"Le Cannet-des-Maures, Var",FR,Matched,France
+LFMD,CEQ,Cannes Mandelieu Airport,Cannes,FR,Matched,France
+LFMH,EBU,Saint-Étienne-Bouthéon Airport,"Andrézieux-Bouthéon, Loire",FR,Matched,France
+LFMI,,Istres-Le Tubé Air Base,"Istres, Bouches-du-Rhône",FR,Matched,France
+LFMK,CCF,Carcassonne Salvaza Airport,Carcassonne,FR,Matched,France
+LFML,MRS,Marseille Provence Airport,"Marignane, Bouches-du-Rhône",FR,Matched,France
+LFMN,NCE,Nice-Côte d'Azur Airport,"Nice, Alpes-Maritimes",FR,Matched,France
+LFMO,,Orange-Caritat (BA 115) Air Base,"Orange, Vaucluse",FR,Matched,France
+LFMP,PGF,Perpignan-Rivesaltes (Llabanère) Airport,Perpignan/Rivesaltes,FR,Matched,France
+LFMQ,CTT,Le Castellet Airport,"Le Castellet, Var",FR,Matched,France
+LFMS,,Aérodrome d'Alès Cévennes,Alès/Deaux,FR,Matched,France
+LFMT,MPL,Montpellier-Méditerranée Airport,Montpellier/Méditerranée,FR,Matched,France
+LFMU,BZR,Béziers Vias airport,Béziers,FR,Matched,France
+LFMV,AVN,Avignon Caumont airport,Avignon,FR,Matched,France
+LFMY,,Salon-de-Provence (BA 701) Air Base,Salon,FR,Matched,France
+LFNB,MEN,Mende-Brenoux Airfield,Mende/Brénoux,FR,Matched,France
+LFOA,,Avord (BA 702) Air Base,Avord,FR,Matched,France
+LFOB,BVA,Beauvais-Tillé airport,Beauvais,FR,Matched,France
+LFOC,,Châteaudun Airfield,"Châteaudun, Eure-et-Loir",FR,Matched,France
+LFOE,EVX,Évreux-Fauville (BA 105) Air Base,"Fauville, Eure",FR,Matched,France
+LFOH,LEH,Le Havre-Octeville Airport,Le Havre,FR,Matched,France
+LFOI,,Abbeville-Buigny Baie de Somme Airfield,Buigny-Saint-Maclou,FR,Matched,France
+LFOJ,,Orléans-Bricy (BA 123) Air Base,"Boulay-les-Barres, Loiret",FR,Matched,France
+LFOK,XCR,Chalons Vatry airport,Chalons en Champagne,FR,Matched,France
+LFOP,URO,Rouen Vallée de Seine Airport,Boos,FR,Matched,France
+LFOT,TUF,Tours Val de Loire Airport,"Tours, Indre-et-Loire",FR,Matched,France
+LFOV,LVA,Laval-Entrammes Airport,"Laval, Mayenne",FR,Matched,France
+LFPB,LBG,Paris-Le Bourget International Airport,Paris,FR,Matched,France
+LFPC,CSF,Creil Air Base,Creil,FR,Matched,France
+LFPG,CDG,Charles de Gaulle International Airport,"Paris (Roissy-en-France, Val-d'Oise)",FR,Matched,France
+LFPM,,Melun-Villaroche Airfield,"Moissy-Cramayel, Seine-et-Marne",FR,Matched,France
+LFPN,TNF,Toussus-le-Noble Airport,"Toussus-le-Noble, Yvelines",FR,Matched,France
+LFPO,ORY,Paris-Orly Airport,"Paris (Orly, Val-de-Marne)",FR,Matched,France
+LFPT,POX,Pontoise-Cormeilles Aerodrome,"Cormeilles-en-Vexin, Val-d'Oise",FR,Matched,France
+LFPV,VIY,Vélizy-Villacoublay Air Base,"Vélizy-Villacoublay, Yvelines",FR,Matched,France
+LFQB,,Troyes-Barberey Airport,"Barberey-Saint-Sulpice, Aube",FR,Matched,France
+LFQE,,Lieutenant Étienne Mantoux Air Base,Rouvres-en-Woëvre,FR,Matched,France
+LFQG,NVS,Nevers-Fourchambault Airport,"Marzy, Nièvre",FR,Matched,France
+LFQP,,Phalsbourg-Bourscheid Air Base,Bourscheid,FR,Matched,France
+LFQQ,LIL,Lille Airport,Lesquin,FR,Matched,France
+LFQT,HZB,Merville-Calonne Airport,"Merville, Nord",FR,Matched,France
+LFQV,,Charleville-Mézières Ardennes-Etienne Riché Airfield,Charleville-Mézières,FR,Matched,France
+LFQW,,Vesoul-Frotey Airfield,"Frotey-lès-Vesoul, Haute-Saône",FR,Matched,France
+LFRB,BES,Brest Bretagne airport,Brest,FR,Matched,France
+LFRC,CER,Cherbourg Manche airport,Cherbourg,FR,Matched,France
+LFRD,DNR,Dinard Pleurtuit Saint-Malo airport,Dinard,FR,Matched,France
+LFRE,LBY,La Baule-Escoublac Airport,La Baule-Escoublac,FR,Matched,France
+LFRF,GFR,Granville Airport,"Bréville-sur-Mer, Manche",FR,Matched,France
+LFRG,DOL,Deauville Normandie airport,Deauville,FR,Matched,France
+LFRH,LRT,Lorient South Brittany (Bretagne Sud) Airport,Lorient/Lann/Bihoué,FR,Matched,France
+LFRI,EDM,La Roche-sur-Yon Les Ajoncs Airport,La Roche-sur-Yon,FR,Matched,France
+LFRJ,LDV,Landivisiau Air Base,Landivisiau,FR,Matched,France
+LFRK,CFR,Caen Carpiquet airport,Caen,FR,Matched,France
+LFRL,,Lanvéoc-Poulmic Air Base,Lanvéoc/Poulmic,FR,Matched,France
+LFRM,LME,Le Mans-Arnage Airport,"Le Mans, Sarthe",FR,Matched,France
+LFRN,RNS,Rennes-Saint-Jacques Airport,"Saint-Jacques-de-la-Lande, Ille-et-Vilaine",FR,Matched,France
+LFRO,LAI,Lannion Airport,Lannion,FR,Matched,France
+LFRQ,UIP,Quimper-Cornouaille Airport,Quimper/Pluguffan,FR,Matched,France
+LFRS,NTE,Nantes Atlantique Airport,Nantes,FR,Matched,France
+LFRT,SBK,Saint-Brieuc-Armor Airport,"Trémuson, Côtes-d'Armor",FR,Matched,France
+LFRU,MXN,Morlaix-Ploujean Airport,Morlaix/Ploujean,FR,Matched,France
+LFRV,VNE,Vannes-Meucon Airport,Vannes/Meucon,FR,Matched,France
+LFRZ,SNR,Saint-Nazaire-Montoir Airport,Saint-Nazaire/Montoir,FR,Matched,France
+LFSB,BSL,EuroAirport Basel–Mulhouse–Freiburg,Bâle / Mulhouse,FR,Matched,France
+LFSD,DIJ,Dijon Longvic airport,Dijon,FR,Matched,France
+LFSG,EPL,Épinal Mirecourt Airport,Épinal,FR,Matched,France
+LFSI,,Saint-Dizier – Robinson Air Base,Saint-Dizier,FR,Matched,France
+LFSL,BVE,Brive Souillac airport,Brive,FR,Matched,France
+LFSM,,Montbéliard-Courcelles Airfield,Courcelles-lès-Montbéliard,FR,Matched,France
+LFSN,ENC,Nancy-Essey Airport,"Tomblaine, Meurthe-et-Moselle",FR,Matched,France
+LFSO,,Nancy-Ochey (BA 133) Air Base,Thuilley-aux-Groseilles,FR,Matched,France
+LFST,SXB,Strasbourg Airport,Strasbourg,FR,Matched,France
+LFSX,,Luxeuil-Saint-Sauveur (BA 116) Air Base,Saint-Sauveur,FR,Matched,France
+LFTH,TLN,Toulon-Hyères Airport,"Hyères, Var",FR,Matched,France
+LFTO,,,,,Unmatched,Unknown
+LFTW,FNI,Nîmes-Arles-Camargue Airport,Nîmes/Garons,FR,Matched,France
+LFXA,,Ambérieu Air Base (BA 278),Ambérieu,FR,Matched,France
+LGAD,PYR,Andravida Air Base,Andravida,GR,Matched,Greece
+LGAL,AXD,Alexandroupoli Democritus Airport,Alexandroupolis,GR,Matched,Greece
+LGAV,ATH,Athens Eleftherios Venizelos International Airport,Spata-Artemida,GR,Matched,Greece
+LGBL,VOL,Nea Anchialos National Airport,Nea Anchialos,GR,Matched,Greece
+LGEL,,Elefsis Air Base,Elefsina,GR,Matched,Greece
+LGHI,JKH,Chios Island National Airport,Chios Island,GR,Matched,Greece
+LGIO,IOA,Ioannina King Pyrrhus National Airport,Ioannina,GR,Matched,Greece
+LGIR,HER,Heraklion International Nikos Kazantzakis Airport,Heraklion,GR,Matched,Greece
+LGKF,EFL,Kefallinia Airport,Kefallinia Island,GR,Matched,Greece
+LGKL,KLX,Kalamata Airport,Kalamata,GR,Matched,Greece
+LGKO,KGS,"Kos International Airport ""Ippokratis""",Kos Island,GR,Matched,Greece
+LGKP,AOK,Karpathos Airport,Karpathos Island,GR,Matched,Greece
+LGKR,CFU,Corfu Ioannis Kapodistrias International Airport,Kerkyra (Corfu),GR,Matched,Greece
+LGKV,KVA,Kavala Alexander the Great International Airport,Kavala,GR,Matched,Greece
+LGKZ,KZI,Kozani National Airport Filippos,Kozani,GR,Matched,Greece
+LGMK,JMK,Mykonos Island National Airport,Mykonos,GR,Matched,Greece
+LGMT,MJT,Mytilene International Airport,Mytilene,GR,Matched,Greece
+LGPZ,PVK,Aktion National Airport,Preveza,GR,Matched,Greece
+LGRP,RHO,"Rhodes International Airport ""Diagoras""",Rhodes,GR,Matched,Greece
+LGRX,GPA,Patras Araxos Agamemnon Airport,Patras,GR,Matched,Greece
+LGSA,CHQ,Chania International Airport,Souda,GR,Matched,Greece
+LGSK,JSI,Skiathos Island National Airport,Skiathos,GR,Matched,Greece
+LGSM,SMI,Samos Airport,Samos Island,GR,Matched,Greece
+LGSR,JTR,Santorini International Airport,Santorini Island,GR,Matched,Greece
+LGST,JSH,Sitia Airport,Crete Island,GR,Matched,Greece
+LGTG,,Tanagra Air Base,Tanagra,GR,Matched,Greece
+LGTS,SKG,Thessaloniki Macedonia International Airport,Thessaloniki,GR,Matched,Greece
+LGZA,ZTH,Zakynthos International Airport Dionysios Solomos,Zakynthos,GR,Matched,Greece
+LHBP,BUD,Budapest Liszt Ferenc International Airport,Budapest,HU,Matched,Hungary
+LHDC,DEB,Debrecen International Airport,Debrecen,HU,Matched,Hungary
+LHKE,,Kecskemét Air Base,Kecskemét,HU,Matched,Hungary
+LHPP,PEV,Pécs-Pogány International Airport,Pécs,HU,Matched,Hungary
+LHPR,,Győr-Pér Airport,Győr,HU,Matched,Hungary
+LHSM,SOB,Hévíz–Balaton Airport,Sármellék,HU,Matched,Hungary
+LHSN,,Szolnok Air Base,Szolnok,HU,Matched,Hungary
+LHTA,,Taszár Air Base,Taszár,HU,Matched,Hungary
+LHTL,,Tököl Airport,Tököl,HU,Matched,Hungary
+LIBA,,Amendola Air Base,San Giovanni Rotondo (FG),IT,Matched,Italy
+LIBC,CRV,Crotone Sant'Anna Pythagoras Airport,Isola di Capo Rizzuto (KR),IT,Matched,Italy
+LIBD,BRI,Bari Karol Wojtyła International Airport,Bari,IT,Matched,Italy
+LIBF,FOG,Foggia Gino Lisa Airport,Foggia (FG),IT,Matched,Italy
+LIBG,TAR,Taranto-Grottaglie Marcello Arlotta Airport,Grottaglie,IT,Matched,Italy
+LIBN,LCC,Lecce Galatina Air Base / Galatina Fortunato Cesari Airport,Galatina (LE),IT,Matched,Italy
+LIBP,PSR,Abruzzo Airport,Pescara,IT,Matched,Italy
+LIBR,BDS,Brindisi Airport,Brindisi,IT,Matched,Italy
+LIBV,,Gioia del Colle Antonio Ramirez Air Base,Gioia del Colle (BA),IT,Matched,Italy
+LICA,SUF,Lamezia Terme Sant'Eufemia International Airport,Lamezia Terme (CZ),IT,Matched,Italy
+LICB,CIY,Comiso Airport,Comiso,IT,Matched,Italy
+LICC,CTA,Catania-Fontanarossa Airport,Catania,IT,Matched,Italy
+LICD,LMP,Lampedusa Airport,Lampedusa,IT,Matched,Italy
+LICG,PNL,Pantelleria Airport,Pantelleria (TP),IT,Matched,Italy
+LICJ,PMO,Falcone–Borsellino Airport,Palermo,IT,Matched,Italy
+LICP,,Palermo-Boccadifalco Airport,Palermo,IT,Matched,Italy
+LICR,REG,Reggio Calabria Airport,Reggio Calabria,IT,Matched,Italy
+LICT,TPS,Vincenzo Florio Airport Trapani-Birgi,Trapani (TP),IT,Matched,Italy
+LICZ,,Sigonella Navy Air Base,Sigonella (CT),IT,Matched,Italy
+LIDT,,Trento-Mattarello Airport,Trento (TN),IT,Matched,Italy
+LIEA,AHO,Alghero-Fertilia Airport,Alghero,IT,Matched,Italy
+LIED,DCI,Decimomannu Air Base,Decimomannu,IT,Matched,Italy
+LIEE,CAG,Cagliari Elmas Airport,Cagliari,IT,Matched,Italy
+LIEO,OLB,Olbia Costa Smeralda Airport,Olbia (SS),IT,Matched,Italy
+LIET,,Tortolì Airport,Arbatax,IT,Matched,Italy
+LILE,,Biella-Cerrione Airfield,Cerrione (BI),IT,Matched,Italy
+LILI,,Vercelli Airport,Vercelli (VC),IT,Matched,Italy
+LILN,,Varese-Venegono Airport,Venegono Superiore (VA),IT,Matched,Italy
+LIMA,,Torino-Aeritalia Airport,Torino (TO),IT,Matched,Italy
+LIMC,MXP,Milan Malpensa International Airport,Ferno (VA),IT,Matched,Italy
+LIME,BGY,Il Caravaggio International Airport,Orio al Serio (BG),IT,Matched,Italy
+LIMF,TRN,Turin Airport,Caselle Torinese (TO),IT,Matched,Italy
+LIMG,,Riviera Villanova d'Albenga International Airport,Villanova d'Albenga (SV),IT,Matched,Italy
+LIMJ,GOA,Genoa Cristoforo Colombo Airport,Genova (GE),IT,Matched,Italy
+LIML,LIN,Milano Linate Airport,Segrate (MI),IT,Matched,Italy
+LIMN,,Cameri Air Base,Cameri (NO),IT,Matched,Italy
+LIMP,PMF,Parma Airport,Parma (PR),IT,Matched,Italy
+LIMR,,Novi Ligure Eugenio Mossi Airfield,Novi Ligure (AL),IT,Matched,Italy
+LIMS,,Piacenza San Damiano Air Base,San Damiano (PC),IT,Matched,Italy
+LIMW,AOT,Aosta Corrado Gex Airport,Saint-Christophe (AO),IT,Matched,Italy
+LIMZ,CUF,Cuneo International Airport,Levaldigi (CN),IT,Matched,Italy
+LIPA,AVB,Aviano Air Base,Aviano (PN),IT,Matched,Italy
+LIPB,BZO,Bolzano Airport,Bolzano (BZ),IT,Matched,Italy
+LIPC,,Cervia Air Base,Cervia (RA),IT,Matched,Italy
+LIPE,BLQ,Bologna Guglielmo Marconi Airport,Bologna,IT,Matched,Italy
+LIPH,TSF,Treviso Airport,Treviso (TV),IT,Matched,Italy
+LIPI,,Udine-Rivolto Air Base,Codroipo (UD),IT,Matched,Italy
+LIPK,FRL,Forlì-Luigi Ridolfi International Airport,Forlì (FC),IT,Matched,Italy
+LIPL,,Ghedi Air Base,Ghedi (BS),IT,Matched,Italy
+LIPO,VBS,Brescia Gabriele d'Annunzio Airport,Montichiari (BS),IT,Matched,Italy
+LIPQ,TRS,Trieste Airport,Ronchi dei Legionari/Trieste,IT,Matched,Italy
+LIPR,RMI,Federico Fellini International Airport,Rimini (RN),IT,Matched,Italy
+LIPS,,Istrana Air Base,Istrana (TV),IT,Matched,Italy
+LIPU,,Padova Gino Allegri Airfield,Padova (PD),IT,Matched,Italy
+LIPX,VRN,Verona Villafranca Valerio Catullo Airport,Caselle (VR),IT,Matched,Italy
+LIPY,AOI,Marche Airport,Falconara Marittima (AN),IT,Matched,Italy
+LIPZ,VCE,Venice Marco Polo Airport,Venezia (VE),IT,Matched,Italy
+LIQS,,Siena-Ampugnano Airport,Ampugnano (SI),IT,Matched,Italy
+LIQW,,Sarzana-Luni Bartolomeo Arrigoni Airport,Sarzana (SP),IT,Matched,Italy
+LIRA,CIA,Ciampino–G. B. Pastine International Airport,Rome,IT,Matched,Italy
+LIRE,,Pratica di Mare Air Base,Pomezia (RM),IT,Matched,Italy
+LIRF,FCO,Rome–Fiumicino Leonardo da Vinci International Airport,Rome,IT,Matched,Italy
+LIRG,,Guidonia Air Base,Guidonia (RM),IT,Matched,Italy
+LIRI,QSR,Salerno Costa d'Amalfi Airport,Salerno,IT,Matched,Italy
+LIRJ,EBA,Marina di Campo Airport,Campo nell'Elba (LI),IT,Matched,Italy
+LIRL,,Latina Air Base,Latina,IT,Matched,Italy
+LIRM,,Grazzanise Air Base,Caserta,IT,Matched,Italy
+LIRN,NAP,Naples International Airport,Napoli,IT,Matched,Italy
+LIRP,PSA,Pisa International Airport,Pisa (PI),IT,Matched,Italy
+LIRQ,FLR,"Florence Airport, Peretola",Firenze (FI),IT,Matched,Italy
+LIRS,GRS,Grosseto Corrado Baccarini Air Base / Grosseto Airport,Grosseto (GR),IT,Matched,Italy
+LIRU,,Rome Urbe Airport,Rome,IT,Matched,Italy
+LIRV,,Viterbo Airport,Viterbo,IT,Matched,Italy
+LIRZ,PEG,Perugia San Francesco d'Assisi – Umbria International Airport,Perugia (PG),IT,Matched,Italy
+LJCE,,Cerklje ob Krki Air Base,Cerklje ob Krki,SI,Matched,Slovenia
+LJLJ,LJU,Ljubljana Jože Pučnik Airport,Zgornji Brnik,SI,Matched,Slovenia
+LJMB,MBX,Maribor Edvard Rusjan Airport,Maribor,SI,Matched,Slovenia
+LJPZ,POW,Portorož Airport,Sečovlje,SI,Matched,Slovenia
+LKCV,,Čáslav Air Base,Chotusice,CZ,Matched,Czechia
+LKKB,,Prague–Kbely Air Base,Prague,CZ,Matched,Czechia
+LKKU,UHE,Kunovice Airport,Uherské Hradiště,CZ,Matched,Czechia
+LKKV,KLV,Karlovy Vary Airport,Karlovy Vary,CZ,Matched,Czechia
+LKLN,,Plzeň-Líně Airport,Plzen,CZ,Matched,Czechia
+LKMT,OSR,Leoš Janáček Airport Ostrava,Mošnov,CZ,Matched,Czechia
+LKNA,,Náměšť Air Base,Sedlec,CZ,Matched,Czechia
+LKPD,PED,Pardubice Airport,Pardubice,CZ,Matched,Czechia
+LKPO,PRV,Přerov Air Base,Přerov,CZ,Matched,Czechia
+LKPR,PRG,Václav Havel Airport Prague,Prague,CZ,Matched,Czechia
+LKTB,BRQ,Brno-Tuřany Airport,Brno,CZ,Matched,Czechia
+LKVO,VOD,Vodochody Airport,Vodochody,CZ,Matched,Czechia
+LLBG,TLV,Ben Gurion International Airport,Tel Aviv,IL,Matched,Israel
+LLEK,,Tel Nof Air Base,Rehovot,IL,Matched,Israel
+LLER,ETM,Ramon International Airport,Eilat,IL,Matched,Israel
+LLHA,HFA,Uri Michaeli Haifa International Airport,Haifa,IL,Matched,Israel
+LLIB,RPN,Rosh Pina Airport,Rosh Pina,IL,Matched,Israel
+LLMZ,MTZ,Bar Yehuda Airfield,Masada,IL,Matched,Israel
+LLNV,VTM,Nevatim Air Base,Beersheba,IL,Matched,Israel
+LLRD,,Ramat David Air Base,Haifa,IL,Matched,Israel
+LLRM,,Ramon Air Base,Beersheba,IL,Matched,Israel
+LMML,MLA,Malta International Airport,Valletta,MT,Matched,Malta
+LOAN,,Wiener Neustadt East Airport,Wiener Neustadt,AT,Matched,Austria
+LOWG,GRZ,Graz Airport,Feldkirchen bei Graz,AT,Matched,Austria
+LOWI,INN,Innsbruck Airport,Innsbruck,AT,Matched,Austria
+LOWK,KLU,Klagenfurt Airport,Klagenfurt am Wörthersee,AT,Matched,Austria
+LOWL,LNZ,Linz-Hörsching Airport,Linz,AT,Matched,Austria
+LOWS,SZG,Salzburg Airport,Salzburg,AT,Matched,Austria
+LOWW,VIE,Vienna International Airport,Vienna,AT,Matched,Austria
+LOXZ,,Hinterstoisser Air Base,Zeltweg,AT,Matched,Austria
+LPAR,,Alverca Air Base,Vila Franca de Xira,PT,Matched,Portugal
+LPAZ,SMA,Santa Maria Airport,Vila do Porto,PT,Matched,Portugal
+LPBG,BGC,Bragança Airport,Bragança,PT,Matched,Portugal
+LPBJ,BYJ,Beja Airport / Airbase,Beja,PT,Matched,Portugal
+LPBR,,Braga Municipal Aerodrome,Braga,PT,Matched,Portugal
+LPCB,,Aerodromo de Castelo Branco,Castelo Branco,PT,Matched,Portugal
+LPCO,,Aerodromo Municipal de Coimbra,Coimbra,PT,Matched,Portugal
+LPCS,CAT,Cascais Airport,Cascais,PT,Matched,Portugal
+LPEV,,Évora Airfield,Évora,PT,Matched,Portugal
+LPFR,FAO,Faro - Gago Coutinho International Airport,Faro,PT,Matched,Portugal
+LPMA,FNC,Cristiano Ronaldo International Airport,Funchal,PT,Matched,Portugal
+LPMR,,Monte Real Air Base,,PT,Matched,Portugal
+LPMT,,Montijo Air Base,Montijo,PT,Matched,Portugal
+LPOV,,Ovar Air Base,Ovar,PT,Matched,Portugal
+LPPD,PDL,João Paulo II Airport,Ponta Delgada,PT,Matched,Portugal
+LPPM,PRM,Portimão Airport,Portimão,PT,Matched,Portugal
+LPPR,OPO,Francisco de Sá Carneiro Airport,Porto,PT,Matched,Portugal
+LPPS,PXO,Porto Santo Airport,Vila Baleira,PT,Matched,Portugal
+LPPT,LIS,Lisbon Humberto Delgado Airport,Lisbon,PT,Matched,Portugal
+LPSO,,Aeródromo Municipal de Ponte de Sor,Ponte de Sor,PT,Matched,Portugal
+LPST,,Sintra Air Base,Sintra,PT,Matched,Portugal
+LPTN,,Tancos Airbase,Tancos,PT,Matched,Portugal
+LPVL,,Vilar de Luz Airfield,Maia,PT,Matched,Portugal
+LPVR,VRL,Vila Real Airport,Vila Real,PT,Matched,Portugal
+LPVZ,VSE,Aerodromo Goncalves Lobato (Viseu Airport),Viseu,PT,Matched,Portugal
+LQBK,BNX,Banja Luka International Airport,Mahovljani,BA,Matched,Bosnia and Herzegovina
+LQMO,OMO,Mostar International Airport,Mostar,BA,Matched,Bosnia and Herzegovina
+LQTZ,TZL,Tuzla International Airport,Dubrave Gornje,BA,Matched,Bosnia and Herzegovina
+LR79,,Ianca Airfield,Ianca,RO,Matched,Romania
+LR80,,Feteşti Borcea Air Base,Borcea,RO,Matched,Romania
+LR82,,Boboc Air Base,Boboc,RO,Matched,Romania
+LRAR,ARW,Arad International Airport,Arad,RO,Matched,Romania
+LRBC,BCM,Bacău George Enescu International  Airport,Bacău,RO,Matched,Romania
+LRBM,BAY,Maramureș International Airport,Tăuții-Măgherăuș,RO,Matched,Romania
+LRBS,BBU,Bucharest Băneasa Aurel Vlaicu International Airport,Bucharest,RO,Matched,Romania
+LRCK,CND,Mihail Kogălniceanu International Airport,Constanța,RO,Matched,Romania
+LRCL,CLJ,Avram Iancu Cluj International Airport,Cluj-Napoca,RO,Matched,Romania
+LRCS,CSB,Caransebeş Airport,Caransebeş,RO,Matched,Romania
+LRCT,,Câmpia Turzii Air Base,Câmpia Turzii,RO,Matched,Romania
+LRCV,CRA,Craiova International Airport,Craiova,RO,Matched,Romania
+LRIA,IAS,Iaşi International Airport,Iaşi,RO,Matched,Romania
+LROD,OMR,Oradea International Airport,Oradea,RO,Matched,Romania
+LROP,OTP,Bucharest Henri Coandă International Airport,Otopeni,RO,Matched,Romania
+LROV,,,,,Unmatched,Unknown
+LRSB,SBZ,Sibiu International Airport,Sibiu,RO,Matched,Romania
+LRSM,SUJ,Satu Mare International Airport,Satu Mare,RO,Matched,Romania
+LRSV,SCV,Suceava Ștefan cel Mare International Airport,Suceava,RO,Matched,Romania
+LRTC,TCE,Tulcea Danube Delta Airport,Mihail Kogălniceanu,RO,Matched,Romania
+LRTM,TGM,Târgu Mureş Transilvania International Airport,Recea,RO,Matched,Romania
+LRTR,TSR,Timișoara Traian Vuia International Airport,Timişoara,RO,Matched,Romania
+LSGC,,Les Eplatures Airport,La Chaux-de-Fonds,CH,Matched,Switzerland
+LSGG,GVA,Geneva International Airport,Geneva,CH,Matched,Switzerland
+LSGS,SIR,Sion Airport,Sion,CH,Matched,Switzerland
+LSMA,,Alpnach Air Base,Alpnach,CH,Matched,Switzerland
+LSMD,,Dübendorf Air Base,Zurich,CH,Matched,Switzerland
+LSME,EML,Emmen Air Base,Emmen,CH,Matched,Switzerland
+LSMP,VIP,Payerne Air Base,Payerne,CH,Matched,Switzerland
+LSZA,LUG,Lugano Airport,Agno,CH,Matched,Switzerland
+LSZB,BRN,Bern Airport,Bern,CH,Matched,Switzerland
+LSZG,,Grenchen Airfield,Grenchen,CH,Matched,Switzerland
+LSZH,ZRH,Zürich Airport,Zurich,CH,Matched,Switzerland
+LSZR,ACH,Sankt Gallen Altenrhein Airport,St. Gallen,CH,Matched,Switzerland
+LSZS,SMV,Engadin Airport,Samedan,CH,Matched,Switzerland
+LTAC,ESB,Esenboğa International Airport,Ankara,TR,Matched,Türkiye
+LTAD,ANK,Etimesgut Air Base,Ankara,TR,Matched,Türkiye
+LTAE,,Akıncı Air Base,Ankara,TR,Matched,Türkiye
+LTAF,ADA,Adana Şakirpaşa Airport,Seyhan,TR,Matched,Türkiye
+LTAG,UAB,İncirlik Air Base,Sarıçam,TR,Matched,Türkiye
+LTAH,AFY,Afyon Air Base,Afyonkarahisar,TR,Matched,Türkiye
+LTAI,AYT,Antalya International Airport,Antalya,TR,Matched,Türkiye
+LTAL,KFS,Kastamonu Airport,Kastamonu,TR,Matched,Türkiye
+LTAN,KYA,Konya Airport,Konya,TR,Matched,Türkiye
+LTAS,ONQ,Zonguldak Çaycuma Airport,Zonguldak,TR,Matched,Türkiye
+LTAT,MLX,Malatya Erhaç Airport,Malatya,TR,Matched,Türkiye
+LTAV,,Sivrihisar Airport,Sivrihisar,TR,Matched,Türkiye
+LTAW,TJK,Tokat Airport,Tokat,TR,Matched,Türkiye
+LTAY,DNZ,Çardak Airport,Denizli,TR,Matched,Türkiye
+LTBA,ISL,İstanbul Atatürk Airport,Istanbul(Bakırköy),TR,Matched,Türkiye
+LTBF,BZI,Balıkesir Airport,Balıkesir,TR,Matched,Türkiye
+LTBG,BDM,Bandırma Airport,Bandırma,TR,Matched,Türkiye
+LTBH,CKZ,Çanakkale Airport,Çanakkale,TR,Matched,Türkiye
+LTBI,ESK,Eskişehir Air Base,Eskişehir,TR,Matched,Türkiye
+LTBJ,ADB,Adnan Menderes International Airport,Gaziemir,TR,Matched,Türkiye
+LTBL,IGL,Çiğli Airbase,Çiğli,TR,Matched,Türkiye
+LTBO,USQ,Uşak Airport,Uşak,TR,Matched,Türkiye
+LTBQ,KCO,Cengiz Topel Airport,Kartepe,TR,Matched,Türkiye
+LTBR,YEI,Bursa Yenişehir Airport,Yenişehir,TR,Matched,Türkiye
+LTBS,DLM,Dalaman International Airport,Dalaman,TR,Matched,Türkiye
+LTBT,,Akhisar Airport / Akhisar Air Base,Akhisar,TR,Matched,Türkiye
+LTBU,TEQ,Tekirdağ Çorlu Airport,Çorlu,TR,Matched,Türkiye
+LTBX,,İstanbul Samandıra Army Air Base,"Ümraniye, Istanbul",TR,Matched,Türkiye
+LTBY,AOE,Hasan Polatkan Airport,Eskişehir,TR,Matched,Türkiye
+LTCA,EZS,Elazığ Airport,Elazığ,TR,Matched,Türkiye
+LTCB,OGU,Ordu–Giresun Airport,Ordu,TR,Matched,Türkiye
+LTCC,DIY,Diyarbakır Airport,Diyarbakır,TR,Matched,Türkiye
+LTCD,ERC,Erzincan Airport,Erzincan,TR,Matched,Türkiye
+LTCE,ERZ,Erzurum International Airport,Erzurum,TR,Matched,Türkiye
+LTCF,KSY,Kars Airport,Kars,TR,Matched,Türkiye
+LTCG,TZX,Trabzon International Airport,Trabzon,TR,Matched,Türkiye
+LTCI,VAN,Van Ferit Melen Airport,Van,TR,Matched,Türkiye
+LTCK,MSR,Muş Airport,Muş,TR,Matched,Türkiye
+LTCM,NOP,Sinop Airport,Sinop,TR,Matched,Türkiye
+LTCN,KCM,Kahramanmaraş Airport,Kahramanmaraş,TR,Matched,Türkiye
+LTCO,AJI,Ağrı Airport,Ağrı,TR,Matched,Türkiye
+LTCT,IGD,Iğdır Airport,Iğdır,TR,Matched,Türkiye
+LTCW,YKO,Hakkari Yüksekova Airport,Hakkari,TR,Matched,Türkiye
+LTDA,HTY,Hatay Airport,Antakya,TR,Matched,Türkiye
+LTFC,ISE,Süleyman Demirel International Airport,Isparta,TR,Matched,Türkiye
+LTFD,EDO,Balıkesir Koca Seyit Airport,Edremit,TR,Matched,Türkiye
+LTFE,BJV,Milas Bodrum International Airport,Bodrum,TR,Matched,Türkiye
+LTFG,GZP,Gazipaşa-Alanya Airport,Gazipaşa,TR,Matched,Türkiye
+LTFH,SZF,Samsun-Çarşamba Airport,Samsun,TR,Matched,Türkiye
+LTFJ,SAW,Istanbul Sabiha Gökçen International Airport,"Pendik, Istanbul",TR,Matched,Türkiye
+LTFM,IST,İstanbul Airport,Istanbul,TR,Matched,Türkiye
+LUCH,,Cahul International Airport,Cahul,MD,Matched,Unknown
+LUKK,RMO,Chişinău International Airport,Chişinău,MD,Matched,Unknown
+LWSK,SKP,Skopje International Airport,Ilinden,MK,Matched,North Macedonia
+LXGB,GIB,Gibraltar Airport,Gibraltar,GI,Matched,Unknown
+LY88,,,,,Unmatched,Unknown
+LYBE,BEG,Belgrade Nikola Tesla Airport,Belgrade,RS,Matched,Serbia
+LYBT,BJY,Batajnica Air Base,Zemun,RS,Matched,Serbia
+LYKV,KVO,Morava Airport,Kraljevo,RS,Matched,Serbia
+LYNI,INI,Niš Constantine the Great Airport,Niš,RS,Matched,Serbia
+LYPG,TGD,Podgorica Airport / Podgorica Golubovci Airbase,Podgorica,ME,Matched,Montenegro
+LYTV,TIV,Tivat Airport,Tivat,ME,Matched,Montenegro
+LZIB,BTS,M. R. Štefánik Airport,Bratislava,SK,Matched,Slovakia
+LZKZ,KSC,Košice International Airport,Košice,SK,Matched,Slovakia
+LZMC,,Malacky/Kuchyňa Air Base,Kuchyňa,SK,Matched,Slovakia
+LZPP,PZY,Piešťany Airport,Piešťany,SK,Matched,Slovakia
+LZSL,SLD,Sliač Airport,Sliač,SK,Matched,Slovakia
+LZTT,TAT,Poprad-Tatry Airport,Poprad,SK,Matched,Slovakia
+LZZI,ILZ,Žilina-Dolný Hričov Airport,Dolný Hričov,SK,Matched,Slovakia
+OEDF,DMM,King Fahd International Airport,Ad Dammam,SA,Matched,Saudi Arabia
+OEGT,URY,Gurayat Domestic Airport,Gurayat,SA,Matched,Saudi Arabia
+OEJB,,Jubail Airport,Jubail,SA,Matched,Saudi Arabia
+OEPA,AQI,Qaisumah–Hafar Al-Batin International Airport,Qaisumah,SA,Matched,Saudi Arabia
+OERM,,Ras Mishab Airport,Al Mishab,SA,Matched,Saudi Arabia
+OERR,RAE,Arar Domestic Airport,Arar,SA,Matched,Saudi Arabia
+OERT,,Ras Tanura Airport,Ras Tanura,SA,Matched,Saudi Arabia
+OETN,,Ras Tanajib Airport,As Saffaniyah,SA,Matched,Saudi Arabia
+OETR,TUI,Turaif Domestic Airport,Turaif,SA,Matched,Saudi Arabia
+OIAA,ABD,Abadan Ayatollah Jami International Airport,Abadan,IR,Matched,Unknown
+OIAM,MRX,Mahshahr Airport,Mahshahr,IR,Matched,Unknown
+OIAW,AWZ,Qasem Soleimani International Airport,Ahvaz,IR,Matched,Unknown
+OITU,IMQ,Maku National Airport,Showt,IR,Matched,Unknown
+OJAI,AMM,Queen Alia International Airport,Amman,JO,Matched,Unknown
+OJAM,ADJ,Marka International (Amman Civil) Airport,Amman,JO,Matched,Unknown
+OJAQ,AQJ,King Hussein International Airport,Aqaba,JO,Matched,Unknown
+OJMS,,Muwaffaq Salti Air Base,Al Azraq,JO,Matched,Unknown
+OKAJ,XIJ,Ahmed Al Jaber Air Base,Ahmed Al Jaber AB,KW,Matched,Kuwait
+OKAS,,Ali Al Salem Air Base,Al Damaikhi,KW,Matched,Kuwait
+OKBK,,,,,Unmatched,Unknown
+OLBA,BEY,Beirut Rafic Hariri International Airport,Beirut,LB,Matched,Unknown
+OLKA,KYE,Rene Mouawad Air Base,Tripoli,LB,Matched,Unknown
+OLRA,,Rayak Air Base,Rayak,LB,Matched,Unknown
+ORBI,BGW,Baghdad International Airport / New Al Muthana Air Base,Baghdad,IQ,Matched,Unknown
+ORMM,BSR,Basra International Airport,Basra,IQ,Matched,Unknown
+ORSU,ISU,Jalal Talabani International Airport,Sulaymaniyah,IQ,Matched,Unknown
+OS57,,Abu ad Duhur Air Base,Abu ad Duhur,SY,Matched,Unknown
+OS64,,An Nasiriyah Air Base,,SY,Matched,Unknown
+OS69,,Khalkhalah Air Base,Buraq,SY,Matched,Unknown
+OS70,,Al Qusayr Air Base,Al-Qusayr,SY,Matched,Unknown
+OSAP,ALP,Aleppo International Airport,Aleppo,SY,Matched,Unknown
+OSDI,DAM,Damascus International Airport,Damascus,SY,Matched,Unknown
+OSLK,LTK,Latakia International Airport,Latakia,SY,Matched,Unknown
+OSPR,PMS,Palmyra Airport,Tadmur,SY,Matched,Unknown
+RU-0001,,Levashovo Air Base,St. Petersburg,RU,Matched,Russia
+RU-0015,,Khotilovo Air Base,Bologoye,RU,Matched,Russia
+RU-0016,,Lipetsk Air Base,Lipetsk,RU,Matched,Russia
+RU-0028,,Kaliningrad Chkalovsk Naval Air Base,Kaliningrad,RU,Matched,Russia
+RU-0035,,,,,Unmatched,Unknown
+RU-0043,,Mius Airport,Sarov,RU,Matched,Russia
+RU-0060,,Chernyakhovsk Naval Air Base,Chernyakhovsk,RU,Matched,Russia
+RU-0064,,Ostrov Naval Air Base,Ostrov,RU,Matched,Russia
+RU-0065,,Pribylovo Naval Air Base,Pribilovo,RU,Matched,Russia
+RU-0128,,Budyonnovsk Air Base,Budyonnovsk,RU,Matched,Russia
+RU-0152,,Mozdok Air Base,Mozdok,RU,Matched,Russia
+RU-0217,,Sormovo Airfield,Nizhniy Novgorod,RU,Matched,Russia
+RU-0240,,Seshcha Air Base,Dubrovka,RU,Matched,Russia
+RU-0303,,Privolzhskiy Air Base,Astrakhan,RU,Matched,Russia
+RU-0764,,Kubinka Air Base,Kubinka,RU,Matched,Russia
+RU-3686,,Oreshkovo Airfield,Kaluga,RU,Matched,Russia
+RU-3709,,Bagay-Baranovka Air Base,Sennoy,RU,Matched,Russia
+RU-4609,,Shatalovo Air Base,Pochinok,RU,Matched,Russia
+RU-5376,,Smuravyovo Air Base,Gdov,RU,Matched,Russia
+RU-5672,,Ivanovo North Air Base,Ivanovo,RU,Matched,Russia
+RU-6687,,Michurinsk Air Base,Michurinsk,RU,Matched,Russia
+RU-8602,,Engels Air Base,Saratov,RU,Matched,Russia
+RU-8709,,Dorokhovo Air Base,Bezhetsk,RU,Matched,Russia
+RU-9345,,Krechevitsy Air Base,Novgorod,RU,Matched,Russia
+RU-9937,,Rzhev Air Base,Rzhev,RU,Matched,Russia
+RU-9942,,Shaykovka Air Base,Kirov,RU,Matched,Russia
+TR-0004,,Temelli Air Base,Polatlı,TR,Matched,Türkiye
+TR-0021,,Çukurhisar Airport,Alpu,TR,Matched,Türkiye
+TR-0028,,Keşan Air Base,Keşan,TR,Matched,Türkiye
+TR-0044,,,,,Unmatched,Unknown
+UA-0005,,Nizhyn Air Base,Nizhyn,UA,Matched,Ukraine
+UA-0022,,Kacha Air Base,Kacha,UA,Matched,Ukraine
+UA-0025,,Bila Tserkva Air Base,Bila Tserkva,UA,Matched,Ukraine
+UA-0028,,Zhovtneve Air Base,Bolgrad,UA,Matched,Ukraine
+UB13,,Khojaly Airport,Khojaly,AZ,Matched,Azerbaijan
+UB14,,Kyurdamir Air Base,Kyurdamir,AZ,Matched,Azerbaijan
+UBBG,GNJ,Ganja International Airport,Ganja,AZ,Matched,Azerbaijan
+UBBN,NAJ,Nakhchivan International Airport,Nakhchivan,AZ,Matched,Azerbaijan
+UBBQ,GBB,Gabala International Airport,Gabala,AZ,Matched,Azerbaijan
+UBBY,ZTU,Zaqatala International Airport,Zaqatala,AZ,Matched,Azerbaijan
+UDSG,LWN,Shirak International Airport,Gyumri,AM,Matched,Armenia
+UDYE,,Erebuni Airport,Yerevan,AM,Matched,Armenia
+UDYZ,EVN,Zvartnots International Airport,Yerevan,AM,Matched,Armenia
+UG0U,,Gudauta Air Base,Gudauta,GE,Matched,Georgia
+UG11,,Dollyar Air Base,Dollyar,AZ,Matched,Azerbaijan
+UG22,,Tbilisi Marneuli Air Base,Tbilisi,GE,Matched,Georgia
+UG24,,Tbilisi Soganlug Air Base,Tbilisi,GE,Matched,Georgia
+UG27,,Vaziani Air Base,Gamarjveba 1,GE,Matched,Georgia
+UG28,,Bolshiye Shiraki Air Base,Bolshiye Shiraki,GE,Matched,Georgia
+UGAM,,Ambrolauri Airport,Ambrolauri,GE,Matched,Georgia
+UGKO,KUT,David the Builder Kutaisi International Airport,Kopitnari,GE,Matched,Georgia
+UGSB,BUS,Alexander Kartveli Batumi International Airport,Batumi,GE,Matched,Georgia
+UGSS,SUI,Vladislav Ardzinba Sukhum International Airport,Sukhumi,GE,Matched,Georgia
+UGTB,TBS,Tbilisi International Airport,Tbilisi,GE,Matched,Georgia
+UKFB,UKS,Sevastopol International Airport / Belbek Air Base,Sevastopol,UA,Matched,Ukraine
+UKFF,SIP,Simferopol International Airport,Simferopol,UA,Matched,Ukraine
+UKFI,,Saky Air Base,Novofedorivka,UA,Matched,Ukraine
+UKKO,,Ozerne Air Base,Zhytomyr,UA,Matched,Ukraine
+UKLH,HMJ,Khmelnytskyi Airport,Khmelnytskyi,UA,Matched,Ukraine
+UKLI,IFO,Ivano-Frankivsk International Airport,Ivano-Frankivsk,UA,Matched,Ukraine
+UKLL,LWO,Lviv International Airport,Lviv,UA,Matched,Ukraine
+UKLR,RWN,Rivne International Airport,Rivne,UA,Matched,Ukraine
+UKLU,UDJ,Uzhhorod International Airport,Uzhhorod,UA,Matched,Ukraine
+UKOH,KHE,Kherson International Airport,Kherson,UA,Matched,Ukraine
+UKON,NLV,Mykolaiv International Airport [CLOSED],Mykolaiv,UA,Matched,Ukraine
+UKOO,ODS,Odesa International Airport,Odesa,UA,Matched,Ukraine
+ULAA,ARH,Talagi Airport,Archangelsk,RU,Matched,Russia
+ULAH,VKV,Vaskovo Airport,Arkhangelsk,RU,Matched,Russia
+ULAK,,,,,Unmatched,Unknown
+ULBC,,,,,Unmatched,Unknown
+ULKK,KSZ,Kotlas Airport,Kotlas,RU,Matched,Russia
+ULLI,LED,Pulkovo Airport,St. Petersburg,RU,Matched,Russia
+ULLP,,Pushkin Airport,St. Petersburg,RU,Matched,Russia
+ULMM,MMK,Emperor Nicholas II Murmansk Airport,Murmansk,RU,Matched,Russia
+ULNR,,,,,Unmatched,Unknown
+ULOO,PKV,Princess Olga Pskov International Airport,Pskov,RU,Matched,Russia
+ULPB,PES,Petrozavodsk Airport,Petrozavodsk,RU,Matched,Russia
+ULPP,,Peski Airfield,Petrozavodsk,RU,Matched,Russia
+ULWW,VGD,Vologda Airport,Vologda,RU,Matched,Russia
+UMBB,BQT,Brest International Airport,Brest,BY,Matched,Belarus
+UMGG,GME,Gomel Airport,Gomel,BY,Matched,Belarus
+UMII,VTB,Vitebsk Vostochny Airport,Vitebsk,BY,Matched,Belarus
+UMKK,KGD,Khrabrovo Airport,Kaliningrad,RU,Matched,Russia
+UMMA,,Baranavichi Air Base,Baranavichi,BY,Matched,Belarus
+UMMG,GNA,Hrodna Airport,Hrodna,BY,Matched,Belarus
+UMMS,MSQ,Minsk National Airport,Minsk,BY,Matched,Belarus
+UMNB,,Babruisk Air Base,Babruisk,BY,Matched,Belarus
+UMOO,MVQ,Mogilev Airport,Mogilev,BY,Matched,Belarus
+URKA,AAQ,Anapa Vityazevo Airport,Krasnyi Kurgan,RU,Matched,Russia
+URKG,GDZ,Gelendzhik Airport,Gelendzhik,RU,Matched,Russia
+URKH,,,,,Unmatched,Unknown
+URKK,KRR,Krasnodar Pashkovsky International Airport,Krasnodar,RU,Matched,Russia
+URMG,GRV,Akhmat Kadyrov Grozny International Airport,Grozny,RU,Matched,Russia
+URML,MCX,Makhachkala Uytash International Airport,Makhachkala,RU,Matched,Russia
+URMM,MRV,Mineralnye Vody Airport,Mineralnyye Vody,RU,Matched,Russia
+URMN,NAL,Nalchik Airport,Nalchik,RU,Matched,Russia
+URMO,OGZ,Vladikavkaz Beslan International Airport,Beslan,RU,Matched,Russia
+URMS,IGT,Magas Airport,Sunzha,RU,Matched,Russia
+URMT,STW,Stavropol Shpakovskoye Airport,Stavropol,RU,Matched,Russia
+URSS,AER,Sochi International Airport,Sochi,RU,Matched,Russia
+URWA,ASF,Astrakhan Narimanovo Boris M. Kustodiev International Airport,Astrakhan,RU,Matched,Russia
+URWI,ESL,Elista Airport,Elista,RU,Matched,Russia
+URWW,VOG,Volgograd International Airport,Volgograd,RU,Matched,Russia
+UUBC,KLF,Grabtsevo Airport,Kaluga,RU,Matched,Russia
+UUBD,,,,,Unmatched,Unknown
+UUBI,IWA,Ivanovo South Airport,Ivanovo,RU,Matched,Russia
+UUBK,RYB,Staroselye Airport,Rybinsk,RU,Matched,Russia
+UUBL,,,,,Unmatched,Unknown
+UUBM,,,,,Unmatched,Unknown
+UUBP,BZK,Bryansk International Airport,Bryansk,RU,Matched,Russia
+UUBW,ZIA,Zhukovsky International Airport,Moscow,RU,Matched,Russia
+UUDD,DME,Domodedovo International Airport,Moscow,RU,Matched,Russia
+UUEE,SVO,Sheremetyevo International Airport,Moscow,RU,Matched,Russia
+UUEM,KLD,Migalovo Air Base,Tver,RU,Matched,Russia
+UUMO,,Ostafyevo International Airport,Moscow,RU,Matched,Russia
+UUMT,,Tretyakovo Airport,Lukhovitsy,RU,Matched,Russia
+UUMU,CKL,Chkalovskiy Air Base,Moscow,RU,Matched,Russia
+UUOO,VOZ,Voronezh International Airport,Voronezh,RU,Matched,Russia
+UUOT,TBW,Donskoye Airport,Tambov,RU,Matched,Russia
+UUWE,,,,,Unmatched,Unknown
+UUWW,VKO,Vnukovo International Airport,Moscow,RU,Matched,Russia
+UWGG,GOJ,Nizhny Novgorod / Strigino International Airport,Nizhny Novgorod,RU,Matched,Russia
+UWKD,KZN,Kazan International Airport,Kazan,RU,Matched,Russia
+UWKG,,Borisoglebskoye Airport,Kazan,RU,Matched,Russia
+UWKJ,JOK,Yoshkar-Ola Airport,Yoshkar-Ola,RU,Matched,Russia
+UWKS,CSY,Cheboksary Airport,Cheboksary,RU,Matched,Russia
+UWPP,PEZ,Penza Airport,Penza,RU,Matched,Russia
+UWPS,SKX,Saransk International Airport,Saransk,RU,Matched,Russia
+UWSB,BWO,Balakovo Airport,Balakovo,RU,Matched,Russia
+UWSG,GSV,Gagarin International Airport,Saratov,RU,Matched,Russia
+XLLL,,,,,Unmatched,Unknown
+XLMV,,,,,Unmatched,Unknown
+XUBS,,,,,Unmatched,Unknown
+Z19O,,Wujah Al Hajar Air Base,Hamat,LB,Matched,Unknown
