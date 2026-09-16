@@ -249,6 +249,58 @@ The dataset contains passenger reviews and ratings across multiple airline-exper
 
 ---
 
+## How to Reproduce
+
+The repository contains the Python processing scripts and SQL transformation layers used to build the AeroPulse analytical workflow.
+
+### 1. Set up the Python environment
+
+```bash
+conda create -n aeropulse python=3.12
+conda activate aeropulse
+pip install -r requirements.txt
+```
+
+### 2. Configure environment variables
+
+Copy `.env.example` to `.env` and configure the required project and BigQuery settings. Credentials and secrets should remain local and must not be committed to GitHub.
+
+### 3. Run the data pipeline
+
+The main processing workflow is:
+
+```text
+OPDI monthly data
+        ↓
+download_opdi_history.py
+        ↓
+transform_opdi_flights.py
+        ↓
+validate_opdi_flights.py
+        ↓
+enrich_opdi_airports.py
+        ↓
+validate_enriched_flights.py
+        ↓
+load_staging.py
+        ↓
+BigQuery
+```
+
+Additional Python scripts support source inspection, operator auditing, airport/reference downloads, data-quality checks and API testing.
+
+### 4. Build the analytical SQL layers
+
+The `sql/` directory contains the BigQuery DDL and analytical views used by AeroPulse. The Flight Choice Advisor pipeline is documented in [`docs/advisor_pipeline.md`](docs/advisor_pipeline.md).
+
+### 5. Connect the dashboard
+
+The final BigQuery dashboard view can be connected to Looker Studio to reproduce the interactive Flight Choice Advisor experience.
+
+> **Reproducibility note:** The public repository documents the processing and analytical workflow, but source datasets, API credentials and the user's BigQuery environment are not included in the repository.
+
+---
+
 ## Data Pipeline
 
 The project follows a structured analytical pipeline:
