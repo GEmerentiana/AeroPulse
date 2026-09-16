@@ -429,6 +429,32 @@ Recommendation categories are:
 
 ---
 
+## My Contribution & AI Usage
+
+AeroPulse was designed and developed as a portfolio data analytics project, with AI used as a supporting development and problem-solving tool.
+
+### My contribution
+
+I designed the project concept, analytical questions, data workflow, scoring framework and dashboard structure. I worked with the underlying aviation datasets, developed and validated the Python processing workflow, built the BigQuery analytical layer and SQL views, and designed and tested the Looker Studio dashboard.
+
+I also made the methodological decisions around how aviation activity, route performance, time-period fit, price evidence and passenger-review evidence are presented and interpreted.
+
+### Use of AI
+
+AI was used as a development assistant for tasks such as:
+
+- brainstorming and refining analytical approaches
+- debugging and improving Python and SQL
+- explaining technical concepts and error messages
+- reviewing documentation and presentation structure
+- helping identify edge cases and data-quality considerations
+
+AI-generated suggestions were reviewed, adapted and tested during development. Final implementation decisions, data validation, methodology, scoring logic and dashboard testing were performed as part of the project development process.
+
+> AI assisted the development process; it did not replace the analytical validation or project decisions.
+
+---
+
 ## Data Quality & Interpretation
 
 AeroPulse is designed around transparent evidence and explicit limitations.
