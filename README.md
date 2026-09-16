@@ -279,6 +279,24 @@ The Advisor data model is documented in:
 
 ---
 
+## Data Lineage
+
+AeroPulse follows a structured path from external aviation data to interactive decision support:
+
+```mermaid
+flowchart LR
+    A[OPDI Flight Activity] --> D[Python Ingestion & Validation]
+    B[Duffel Fare Observations] --> D
+    C[Passenger Review Dataset] --> D
+    D --> E[BigQuery Analytical Layer]
+    E --> F[SQL Analytics & Scoring]
+    F --> G[Looker Studio]
+    G --> H[Interactive Decision Support]
+```
+
+
+---
+
 ## Flight Choice Advisor — Production Logic
 
 The production Advisor follows this analytical flow:
