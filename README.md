@@ -51,11 +51,11 @@ The central **Flight Choice Advisor** allows users to select:
 - Preferred time window
 - Traveler type: Business or Leisure
 
-It then ranks the top three airline options for the selected scenario and explains the recommendation.
+It then ranks the top three airline options for the selected scenario and explains why each option is recommended.
 
 ### Core message
 
-**AeroPulse doesn't just tell you which option to choose — it explains why.**
+**AeroPulse doesn't just recommend an option — it explains why.**
 
 ---
 
