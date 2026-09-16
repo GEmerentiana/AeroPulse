@@ -391,6 +391,32 @@ The production Advisor score uses:
 
 When reliable price evidence is unavailable, the non-price components are normalized so that missing price data does not penalize the recommendation.
 
+### Worked Production Example
+
+The following example uses a real production scenario from the Flight Choice Advisor:
+
+| Input | Example |
+|---|---|
+| Route | BER → BRU |
+| Month | August |
+| Preferred time | Morning |
+| Airline | Brussels Airlines |
+
+For this route-month-airline combination, the production data contains **61 observed flights**, classified as **Very Strong** activity. The airline is active in all 12 months of the analysis period, resulting in a **Year-Round** consistency classification. The resulting Monthly Service Score is **100.0**.
+
+The selected Morning time period has a **100** time-fit score, and the route-airline strength score is also **100.0**.
+
+No reliable fare observation is available for this scenario. Following the production methodology, the non-price components are normalized rather than penalized because price evidence is missing.
+
+The resulting Advisor output is:
+
+**Advisor Score: 100.0 — Excellent Choice**
+
+The recommendation reason states that the option is recommended based on service activity, preferred-time fit and route-airline performance, with no price observation available.
+
+> This is an example of how the AeroPulse scoring framework operates for one specific scenario. It is not a universal ranking of airlines.
+
+
 Recommendation categories are:
 
 | Advisor score | Recommendation |
